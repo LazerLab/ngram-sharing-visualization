@@ -1,0 +1,68 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Spencer Bachus", 
+            "id": "26715"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jon Kyl", 
+            "id": "26721"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Gregg Harper", 
+            "id": "101985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Pence", 
+            "id": "34024"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27015", 
+            "target": "20400"
+        }, 
+        {
+            "source": "27015", 
+            "target": "18594"
+        }, 
+        {
+            "source": "26715", 
+            "target": "26721"
+        }, 
+        {
+            "source": "26715", 
+            "target": "18594"
+        }, 
+        {
+            "source": "101985", 
+            "target": "20400"
+        }, 
+        {
+            "source": "20400", 
+            "target": "34024"
+        }
+    ], 
+    "multigraph": false
+}

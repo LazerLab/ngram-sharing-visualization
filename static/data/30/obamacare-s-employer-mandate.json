@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Renee L. Ellmers", 
+            "id": "120897"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Greg Walden", 
+            "id": "2979"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119213", 
+            "target": "2979"
+        }, 
+        {
+            "source": "120897", 
+            "target": "135705"
+        }, 
+        {
+            "source": "135705", 
+            "target": "35514"
+        }
+    ], 
+    "multigraph": false
+}

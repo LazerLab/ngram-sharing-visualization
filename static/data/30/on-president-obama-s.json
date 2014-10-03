@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }
+    ], 
+    "links": [
+        {
+            "source": "22175", 
+            "target": "65905"
+        }, 
+        {
+            "source": "65905", 
+            "target": "11812"
+        }, 
+        {
+            "source": "11812", 
+            "target": "35514"
+        }
+    ], 
+    "multigraph": false
+}

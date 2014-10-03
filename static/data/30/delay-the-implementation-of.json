@@ -1,0 +1,78 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Mark Sanford", 
+            "id": "21991"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ken Calvert", 
+            "id": "26777"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Hoeven", 
+            "id": "41788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Duncan", 
+            "id": "47967"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Daines", 
+            "id": "135720"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joe Wilson", 
+            "id": "3985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }
+    ], 
+    "links": [
+        {
+            "source": "21991", 
+            "target": "41788"
+        }, 
+        {
+            "source": "26777", 
+            "target": "120649"
+        }, 
+        {
+            "source": "26777", 
+            "target": "41788"
+        }, 
+        {
+            "source": "47967", 
+            "target": "9026"
+        }, 
+        {
+            "source": "135720", 
+            "target": "120649"
+        }, 
+        {
+            "source": "27097", 
+            "target": "3985"
+        }
+    ], 
+    "multigraph": false
+}

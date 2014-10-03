@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Greg Walden", 
+            "id": "2979"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Shuster", 
+            "id": "55693"
+        }
+    ], 
+    "links": [
+        {
+            "source": "8783", 
+            "target": "55693"
+        }, 
+        {
+            "source": "27097", 
+            "target": "2979"
+        }, 
+        {
+            "source": "27097", 
+            "target": "9425"
+        }
+    ], 
+    "multigraph": false
+}

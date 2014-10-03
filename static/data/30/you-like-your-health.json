@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ron DeSantis", 
+            "id": "137630"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Randy Neugebauer", 
+            "id": "49522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Darrell E. Issa", 
+            "id": "16553"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27015", 
+            "target": "21309"
+        }, 
+        {
+            "source": "137630", 
+            "target": "49522"
+        }, 
+        {
+            "source": "137630", 
+            "target": "16553"
+        }
+    ], 
+    "multigraph": false
+}

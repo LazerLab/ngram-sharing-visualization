@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "James A. Himes", 
+            "id": "106744"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Debbie Stabenow", 
+            "id": "515"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Steve Cohen", 
+            "id": "24340"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kevin Brady", 
+            "id": "361"
+        }
+    ], 
+    "links": [
+        {
+            "source": "542", 
+            "target": "515"
+        }, 
+        {
+            "source": "106744", 
+            "target": "24340"
+        }, 
+        {
+            "source": "24340", 
+            "target": "361"
+        }
+    ], 
+    "multigraph": false
+}

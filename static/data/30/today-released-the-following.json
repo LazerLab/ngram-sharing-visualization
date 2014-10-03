@@ -1,0 +1,110 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Daines", 
+            "id": "135720"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John D. Rockefeller, IV", 
+            "id": "53360"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mick Mulvaney", 
+            "id": "60348"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Benishek", 
+            "id": "123056"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Cassidy", 
+            "id": "69494"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Davis", 
+            "id": "9622"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Matt Salmon", 
+            "id": "22184"
+        }
+    ], 
+    "links": [
+        {
+            "source": "70001", 
+            "target": "15691"
+        }, 
+        {
+            "source": "135720", 
+            "target": "288"
+        }, 
+        {
+            "source": "53360", 
+            "target": "69494"
+        }, 
+        {
+            "source": "135705", 
+            "target": "288"
+        }, 
+        {
+            "source": "15691", 
+            "target": "22184"
+        }, 
+        {
+            "source": "60348", 
+            "target": "123056"
+        }, 
+        {
+            "source": "288", 
+            "target": "9622"
+        }, 
+        {
+            "source": "69494", 
+            "target": "9026"
+        }, 
+        {
+            "source": "21309", 
+            "target": "9026"
+        }
+    ], 
+    "multigraph": false
+}

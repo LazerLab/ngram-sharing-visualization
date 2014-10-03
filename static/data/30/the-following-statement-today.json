@@ -1,0 +1,240 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ron DeSantis", 
+            "id": "137630"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Daniel Lipinski", 
+            "id": "33692"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Peter J. Roskam", 
+            "id": "6382"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Thune", 
+            "id": "398"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Kline", 
+            "id": "20311"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Cathy McMorris Rodgers", 
+            "id": "3217"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Anna G. Eshoo", 
+            "id": "26741"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Rogers", 
+            "id": "5705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Louie Gohmert", 
+            "id": "50029"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Adrian Smith", 
+            "id": "21284"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Yvette D. Clarke", 
+            "id": "44741"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michele Bachmann", 
+            "id": "54675"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Sessions", 
+            "id": "443"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Carl Levin", 
+            "id": "53307"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Frank Pallone Jr.", 
+            "id": "26951"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Southerland II", 
+            "id": "124329"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Kelly", 
+            "id": "119463"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sam Farr", 
+            "id": "26745"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Nancy Pelosi", 
+            "id": "26732"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Elton Gallegly", 
+            "id": "26750"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David Schweikert", 
+            "id": "106387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Don Young", 
+            "id": "26717"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marlin A. Stutzman", 
+            "id": "34230"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Coffman", 
+            "id": "1535"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Pence", 
+            "id": "34024"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Roy Blunt", 
+            "id": "418"
+        }
+    ], 
+    "links": [
+        {
+            "source": "137630", 
+            "target": "20311"
+        }, 
+        {
+            "source": "33692", 
+            "target": "17644"
+        }, 
+        {
+            "source": "6382", 
+            "target": "24559"
+        }, 
+        {
+            "source": "398", 
+            "target": "53307"
+        }, 
+        {
+            "source": "398", 
+            "target": "26951"
+        }, 
+        {
+            "source": "3217", 
+            "target": "1535"
+        }, 
+        {
+            "source": "3217", 
+            "target": "119463"
+        }, 
+        {
+            "source": "26741", 
+            "target": "26750"
+        }, 
+        {
+            "source": "5705", 
+            "target": "34230"
+        }, 
+        {
+            "source": "50029", 
+            "target": "26745"
+        }, 
+        {
+            "source": "50029", 
+            "target": "54675"
+        }, 
+        {
+            "source": "21284", 
+            "target": "106387"
+        }, 
+        {
+            "source": "44741", 
+            "target": "443"
+        }, 
+        {
+            "source": "124329", 
+            "target": "26717"
+        }, 
+        {
+            "source": "26745", 
+            "target": "418"
+        }, 
+        {
+            "source": "26732", 
+            "target": "418"
+        }, 
+        {
+            "source": "24302", 
+            "target": "1535"
+        }, 
+        {
+            "source": "26750", 
+            "target": "46971"
+        }, 
+        {
+            "source": "34024", 
+            "target": "18829"
+        }
+    ], 
+    "multigraph": false
+}

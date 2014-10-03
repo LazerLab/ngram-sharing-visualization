@@ -1,0 +1,77 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Mark E. Amodei", 
+            "id": "12537"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Randy Neugebauer", 
+            "id": "49522"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John Barrow", 
+            "id": "31780"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kenny Marchant", 
+            "id": "5549"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cotton", 
+            "id": "135651"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Billy Long", 
+            "id": "123401"
+        }
+    ], 
+    "links": [
+        {
+            "source": "12537", 
+            "target": "26906"
+        }, 
+        {
+            "source": "12537", 
+            "target": "49522"
+        }, 
+        {
+            "source": "26906", 
+            "target": "123401"
+        }, 
+        {
+            "source": "49522", 
+            "target": "31780"
+        }, 
+        {
+            "source": "5549", 
+            "target": "123401"
+        }, 
+        {
+            "source": "5549", 
+            "target": "135651"
+        }, 
+        {
+            "source": "46034", 
+            "target": "135651"
+        }
+    ], 
+    "multigraph": false
+}

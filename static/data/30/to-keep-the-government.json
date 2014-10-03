@@ -1,0 +1,95 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Steny H. Hoyer", 
+            "id": "26890"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Posey", 
+            "id": "24280"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott R. Tipton", 
+            "id": "65403"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26890", 
+            "target": "117396"
+        }, 
+        {
+            "source": "26890", 
+            "target": "65403"
+        }, 
+        {
+            "source": "102008", 
+            "target": "65403"
+        }, 
+        {
+            "source": "27015", 
+            "target": "24280"
+        }, 
+        {
+            "source": "27015", 
+            "target": "44082"
+        }, 
+        {
+            "source": "15375", 
+            "target": "5121"
+        }, 
+        {
+            "source": "288", 
+            "target": "5121"
+        }, 
+        {
+            "source": "288", 
+            "target": "44082"
+        }, 
+        {
+            "source": "24280", 
+            "target": "117396"
+        }
+    ], 
+    "multigraph": false
+}

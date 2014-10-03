@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Rob Bishop", 
+            "id": "50544"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Patty Murray", 
+            "id": "53358"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard C. Shelby", 
+            "id": "53266"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }
+    ], 
+    "links": [
+        {
+            "source": "50544", 
+            "target": "46034"
+        }, 
+        {
+            "source": "53358", 
+            "target": "120649"
+        }, 
+        {
+            "source": "53266", 
+            "target": "53349"
+        }
+    ], 
+    "multigraph": false
+}

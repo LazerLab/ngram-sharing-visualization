@@ -1,0 +1,148 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Edward J. Markey", 
+            "id": "26900"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David P. Roe", 
+            "id": "65306"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Portman", 
+            "id": "27008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Ann Kirkpatrick", 
+            "id": "28425"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Beto O'Rourke", 
+            "id": "78533"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Lucille Roybal-Allard", 
+            "id": "26766"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Harold Rogers", 
+            "id": "26875"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Denny Rehberg", 
+            "id": "404"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Fortney Pete Stark", 
+            "id": "26736"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Shimkus", 
+            "id": "246"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Al Franken", 
+            "id": "108924"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Diana DeGette", 
+            "id": "561"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jack Reed", 
+            "id": "27060"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Luke Messer", 
+            "id": "33997"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn A. Westmoreland", 
+            "id": "8001"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "108924"
+        }, 
+        {
+            "source": "53352", 
+            "target": "8001"
+        }, 
+        {
+            "source": "26900", 
+            "target": "404"
+        }, 
+        {
+            "source": "65306", 
+            "target": "26736"
+        }, 
+        {
+            "source": "27008", 
+            "target": "24046"
+        }, 
+        {
+            "source": "28425", 
+            "target": "246"
+        }, 
+        {
+            "source": "78533", 
+            "target": "561"
+        }, 
+        {
+            "source": "78533", 
+            "target": "135705"
+        }, 
+        {
+            "source": "26766", 
+            "target": "26875"
+        }, 
+        {
+            "source": "27060", 
+            "target": "33997"
+        }, 
+        {
+            "source": "33997", 
+            "target": "8001"
+        }
+    ], 
+    "multigraph": false
+}

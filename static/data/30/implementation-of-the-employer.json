@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Charles W. Dent", 
+            "id": "9121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Patrick Meehan", 
+            "id": "119474"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Murphy", 
+            "id": "9794"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joe Wilson", 
+            "id": "3985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }
+    ], 
+    "links": [
+        {
+            "source": "9121", 
+            "target": "9026"
+        }, 
+        {
+            "source": "9121", 
+            "target": "35514"
+        }, 
+        {
+            "source": "119474", 
+            "target": "3985"
+        }, 
+        {
+            "source": "9794", 
+            "target": "9026"
+        }
+    ], 
+    "multigraph": false
+}

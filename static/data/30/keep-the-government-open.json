@@ -1,0 +1,82 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Cook", 
+            "id": "58121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Frank Pallone Jr.", 
+            "id": "26951"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott R. Tipton", 
+            "id": "65403"
+        }
+    ], 
+    "links": [
+        {
+            "source": "102008", 
+            "target": "65403"
+        }, 
+        {
+            "source": "15375", 
+            "target": "5121"
+        }, 
+        {
+            "source": "58121", 
+            "target": "26951"
+        }, 
+        {
+            "source": "46971", 
+            "target": "117396"
+        }, 
+        {
+            "source": "46971", 
+            "target": "65403"
+        }, 
+        {
+            "source": "44082", 
+            "target": "117396"
+        }, 
+        {
+            "source": "44082", 
+            "target": "5121"
+        }
+    ], 
+    "multigraph": false
+}

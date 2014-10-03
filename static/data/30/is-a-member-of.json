@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Amy Klobuchar", 
+            "id": "65092"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Johnny Isakson", 
+            "id": "1721"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James B. Renacci", 
+            "id": "120678"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Leonard Lance", 
+            "id": "4443"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Stephen Lee Fincher", 
+            "id": "124659"
+        }
+    ], 
+    "links": [
+        {
+            "source": "65092", 
+            "target": "46034"
+        }, 
+        {
+            "source": "1721", 
+            "target": "4443"
+        }, 
+        {
+            "source": "120678", 
+            "target": "124659"
+        }
+    ], 
+    "multigraph": false
+}

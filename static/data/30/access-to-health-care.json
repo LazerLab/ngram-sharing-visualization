@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119213", 
+            "target": "27080"
+        }, 
+        {
+            "source": "20400", 
+            "target": "18829"
+        }, 
+        {
+            "source": "27958", 
+            "target": "18829"
+        }
+    ], 
+    "multigraph": false
+}

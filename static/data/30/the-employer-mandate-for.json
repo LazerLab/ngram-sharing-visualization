@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Greg Walden", 
+            "id": "2979"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael E. Capuano", 
+            "id": "18883"
+        }
+    ], 
+    "links": [
+        {
+            "source": "120649", 
+            "target": "2979"
+        }, 
+        {
+            "source": "120649", 
+            "target": "9425"
+        }, 
+        {
+            "source": "2979", 
+            "target": "18883"
+        }
+    ], 
+    "multigraph": false
+}

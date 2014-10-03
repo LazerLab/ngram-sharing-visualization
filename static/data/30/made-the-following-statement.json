@@ -1,0 +1,106 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve King", 
+            "id": "10853"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jim Jordan", 
+            "id": "8158"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Carl Levin", 
+            "id": "53307"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sander M. Levin", 
+            "id": "26918"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph R. Pitts", 
+            "id": "265"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Barrasso", 
+            "id": "52662"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Thune", 
+            "id": "398"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Debbie Stabenow", 
+            "id": "515"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert E. Latta", 
+            "id": "9926"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26906", 
+            "target": "10853"
+        }, 
+        {
+            "source": "26906", 
+            "target": "265"
+        }, 
+        {
+            "source": "65905", 
+            "target": "26798"
+        }, 
+        {
+            "source": "8158", 
+            "target": "515"
+        }, 
+        {
+            "source": "8158", 
+            "target": "265"
+        }, 
+        {
+            "source": "27015", 
+            "target": "26918"
+        }, 
+        {
+            "source": "53307", 
+            "target": "398"
+        }, 
+        {
+            "source": "52662", 
+            "target": "9926"
+        }
+    ], 
+    "multigraph": false
+}

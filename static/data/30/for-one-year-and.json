@@ -1,0 +1,59 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Marsha Blackburn", 
+            "id": "25186"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ken Calvert", 
+            "id": "26777"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Hoeven", 
+            "id": "41788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Huizenga", 
+            "id": "38351"
+        }
+    ], 
+    "links": [
+        {
+            "source": "25186", 
+            "target": "26777"
+        }, 
+        {
+            "source": "25186", 
+            "target": "44082"
+        }, 
+        {
+            "source": "26777", 
+            "target": "38351"
+        }, 
+        {
+            "source": "41788", 
+            "target": "27116"
+        }, 
+        {
+            "source": "27116", 
+            "target": "44082"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,68 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John Hoeven", 
+            "id": "41788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael C. Burgess", 
+            "id": "50120"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Rick Larsen", 
+            "id": "56231"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Harold Rogers", 
+            "id": "26875"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }
+    ], 
+    "links": [
+        {
+            "source": "41788", 
+            "target": "56231"
+        }, 
+        {
+            "source": "41788", 
+            "target": "50120"
+        }, 
+        {
+            "source": "50120", 
+            "target": "15691"
+        }, 
+        {
+            "source": "27015", 
+            "target": "46034"
+        }, 
+        {
+            "source": "15691", 
+            "target": "15691"
+        }, 
+        {
+            "source": "15691", 
+            "target": "26875"
+        }
+    ], 
+    "multigraph": false
+}

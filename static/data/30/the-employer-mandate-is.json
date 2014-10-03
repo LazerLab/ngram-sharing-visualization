@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Dent", 
+            "id": "9121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dean Heller", 
+            "id": "2291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael E. Capuano", 
+            "id": "18883"
+        }
+    ], 
+    "links": [
+        {
+            "source": "542", 
+            "target": "9121"
+        }, 
+        {
+            "source": "542", 
+            "target": "2291"
+        }, 
+        {
+            "source": "2291", 
+            "target": "11812"
+        }, 
+        {
+            "source": "11812", 
+            "target": "18883"
+        }
+    ], 
+    "multigraph": false
+}

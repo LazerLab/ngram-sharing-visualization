@@ -1,0 +1,311 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Charles W. Dent", 
+            "id": "9121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Amy Klobuchar", 
+            "id": "65092"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Daines", 
+            "id": "135720"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dean Heller", 
+            "id": "2291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Thad Cochran", 
+            "id": "53312"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Tim Johnson", 
+            "id": "27067"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Kurt Schrader", 
+            "id": "10813"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "David N. Cicilline", 
+            "id": "7349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Maria Cantwell", 
+            "id": "27122"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lisa Murkowski", 
+            "id": "15841"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Tim Ryan", 
+            "id": "45638"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Burton", 
+            "id": "26855"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mitch McConnell", 
+            "id": "53298"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert B. Aderholt", 
+            "id": "441"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Barbara Lee", 
+            "id": "8315"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dave Camp", 
+            "id": "26911"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Alexander", 
+            "id": "4545"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Ann Emerson", 
+            "id": "903"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Louise McIntosh Slaughter", 
+            "id": "26991"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ken Calvert", 
+            "id": "26777"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Spencer Bachus", 
+            "id": "26715"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Susan M. Collins", 
+            "id": "379"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert E. Latta", 
+            "id": "9926"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Joe Manchin, III", 
+            "id": "7547"
+        }
+    ], 
+    "links": [
+        {
+            "source": "9121", 
+            "target": "334"
+        }, 
+        {
+            "source": "26906", 
+            "target": "10813"
+        }, 
+        {
+            "source": "26906", 
+            "target": "26906"
+        }, 
+        {
+            "source": "65092", 
+            "target": "53352"
+        }, 
+        {
+            "source": "53352", 
+            "target": "9026"
+        }, 
+        {
+            "source": "53352", 
+            "target": "44082"
+        }, 
+        {
+            "source": "135720", 
+            "target": "334"
+        }, 
+        {
+            "source": "15375", 
+            "target": "26777"
+        }, 
+        {
+            "source": "2291", 
+            "target": "11812"
+        }, 
+        {
+            "source": "2291", 
+            "target": "27522"
+        }, 
+        {
+            "source": "53312", 
+            "target": "7547"
+        }, 
+        {
+            "source": "22175", 
+            "target": "65905"
+        }, 
+        {
+            "source": "24046", 
+            "target": "903"
+        }, 
+        {
+            "source": "27067", 
+            "target": "8315"
+        }, 
+        {
+            "source": "27067", 
+            "target": "441"
+        }, 
+        {
+            "source": "7349", 
+            "target": "15691"
+        }, 
+        {
+            "source": "11812", 
+            "target": "9425"
+        }, 
+        {
+            "source": "334", 
+            "target": "9926"
+        }, 
+        {
+            "source": "27122", 
+            "target": "26715"
+        }, 
+        {
+            "source": "65905", 
+            "target": "53298"
+        }, 
+        {
+            "source": "15841", 
+            "target": "45638"
+        }, 
+        {
+            "source": "15841", 
+            "target": "26911"
+        }, 
+        {
+            "source": "45638", 
+            "target": "441"
+        }, 
+        {
+            "source": "26855", 
+            "target": "903"
+        }, 
+        {
+            "source": "8315", 
+            "target": "26991"
+        }, 
+        {
+            "source": "9026", 
+            "target": "903"
+        }, 
+        {
+            "source": "4545", 
+            "target": "27097"
+        }, 
+        {
+            "source": "15691", 
+            "target": "379"
+        }
+    ], 
+    "multigraph": false
+}

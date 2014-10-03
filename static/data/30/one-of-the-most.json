@@ -1,0 +1,74 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Edward J. Markey", 
+            "id": "26900"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Bishop", 
+            "id": "50544"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John D. Rockefeller, IV", 
+            "id": "53360"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Andr\u00e9 Carson", 
+            "id": "84917"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted S. Yoho", 
+            "id": "137622"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "James A. Himes", 
+            "id": "106744"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26900", 
+            "target": "106744"
+        }, 
+        {
+            "source": "50544", 
+            "target": "84917"
+        }, 
+        {
+            "source": "50544", 
+            "target": "15375"
+        }, 
+        {
+            "source": "53360", 
+            "target": "53349"
+        }, 
+        {
+            "source": "137622", 
+            "target": "334"
+        }
+    ], 
+    "multigraph": false
+}

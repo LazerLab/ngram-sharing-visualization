@@ -1,0 +1,60 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Charles W. Dent", 
+            "id": "9121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mark Sanford", 
+            "id": "21991"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sheila Jackson Lee", 
+            "id": "21692"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }
+    ], 
+    "links": [
+        {
+            "source": "9121", 
+            "target": "9026"
+        }, 
+        {
+            "source": "21991", 
+            "target": "21692"
+        }, 
+        {
+            "source": "21692", 
+            "target": "46971"
+        }, 
+        {
+            "source": "53352", 
+            "target": "27958"
+        }
+    ], 
+    "multigraph": false
+}

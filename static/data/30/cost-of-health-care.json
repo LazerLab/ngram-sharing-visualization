@@ -1,0 +1,69 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Crapo", 
+            "id": "26830"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Patrick J. Leahy", 
+            "id": "53353"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pat Roberts", 
+            "id": "26866"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Geoff Davis", 
+            "id": "35212"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Kent Conrad", 
+            "id": "53331"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119213", 
+            "target": "53353"
+        }, 
+        {
+            "source": "26830", 
+            "target": "53331"
+        }, 
+        {
+            "source": "53353", 
+            "target": "15691"
+        }, 
+        {
+            "source": "26866", 
+            "target": "26866"
+        }, 
+        {
+            "source": "35212", 
+            "target": "27032"
+        }
+    ], 
+    "multigraph": false
+}

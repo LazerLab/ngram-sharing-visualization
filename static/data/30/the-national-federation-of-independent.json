@@ -1,0 +1,60 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Sue Wilkins Myrick", 
+            "id": "21789"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Nan A. S. Hayworth", 
+            "id": "127041"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Reid J. Ribble", 
+            "id": "126240"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Cynthia M. Lummis", 
+            "id": "15546"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Roger F. Wicker", 
+            "id": "21926"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Maria Cantwell", 
+            "id": "27122"
+        }
+    ], 
+    "links": [
+        {
+            "source": "21789", 
+            "target": "24302"
+        }, 
+        {
+            "source": "127041", 
+            "target": "15546"
+        }, 
+        {
+            "source": "126240", 
+            "target": "21926"
+        }, 
+        {
+            "source": "15546", 
+            "target": "27122"
+        }
+    ], 
+    "multigraph": false
+}

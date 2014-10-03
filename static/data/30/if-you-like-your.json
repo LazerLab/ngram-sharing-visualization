@@ -1,0 +1,73 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Randy Neugebauer", 
+            "id": "49522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Darrell E. Issa", 
+            "id": "16553"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ron DeSantis", 
+            "id": "137630"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Billy Long", 
+            "id": "123401"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }
+    ], 
+    "links": [
+        {
+            "source": "49522", 
+            "target": "137630"
+        }, 
+        {
+            "source": "49522", 
+            "target": "123401"
+        }, 
+        {
+            "source": "16553", 
+            "target": "137630"
+        }, 
+        {
+            "source": "27015", 
+            "target": "21309"
+        }, 
+        {
+            "source": "135705", 
+            "target": "46034"
+        }, 
+        {
+            "source": "123401", 
+            "target": "46034"
+        }
+    ], 
+    "multigraph": false
+}

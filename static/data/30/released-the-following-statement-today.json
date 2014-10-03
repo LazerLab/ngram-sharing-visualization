@@ -1,0 +1,87 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Cathy McMorris Rodgers", 
+            "id": "3217"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Elton Gallegly", 
+            "id": "26750"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michele Bachmann", 
+            "id": "54675"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Anna G. Eshoo", 
+            "id": "26741"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Louie Gohmert", 
+            "id": "50029"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Coffman", 
+            "id": "1535"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sam Farr", 
+            "id": "26745"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Nancy Pelosi", 
+            "id": "26732"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Roy Blunt", 
+            "id": "418"
+        }
+    ], 
+    "links": [
+        {
+            "source": "3217", 
+            "target": "1535"
+        }, 
+        {
+            "source": "3217", 
+            "target": "24302"
+        }, 
+        {
+            "source": "26750", 
+            "target": "26741"
+        }, 
+        {
+            "source": "54675", 
+            "target": "50029"
+        }, 
+        {
+            "source": "50029", 
+            "target": "26745"
+        }, 
+        {
+            "source": "26745", 
+            "target": "418"
+        }, 
+        {
+            "source": "26732", 
+            "target": "418"
+        }
+    ], 
+    "multigraph": false
+}

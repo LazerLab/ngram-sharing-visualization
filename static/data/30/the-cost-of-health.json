@@ -1,0 +1,65 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Patrick J. Leahy", 
+            "id": "53353"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pat Roberts", 
+            "id": "26866"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Geoff Davis", 
+            "id": "35212"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Pence", 
+            "id": "34024"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Thomas R. Carper", 
+            "id": "22421"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53353", 
+            "target": "15691"
+        }, 
+        {
+            "source": "26866", 
+            "target": "22421"
+        }, 
+        {
+            "source": "35212", 
+            "target": "27032"
+        }, 
+        {
+            "source": "53349", 
+            "target": "34024"
+        }
+    ], 
+    "multigraph": false
+}

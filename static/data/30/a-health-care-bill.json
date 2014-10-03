@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Steve King", 
+            "id": "10853"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Thune", 
+            "id": "398"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Daniel Lipinski", 
+            "id": "33692"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }
+    ], 
+    "links": [
+        {
+            "source": "10853", 
+            "target": "33692"
+        }, 
+        {
+            "source": "10853", 
+            "target": "27522"
+        }, 
+        {
+            "source": "398", 
+            "target": "27522"
+        }
+    ], 
+    "multigraph": false
+}

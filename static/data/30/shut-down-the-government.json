@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Huizenga", 
+            "id": "38351"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }
+    ], 
+    "links": [
+        {
+            "source": "542", 
+            "target": "117396"
+        }, 
+        {
+            "source": "38351", 
+            "target": "5121"
+        }, 
+        {
+            "source": "117396", 
+            "target": "5121"
+        }
+    ], 
+    "multigraph": false
+}

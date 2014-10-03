@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jon Runyan", 
+            "id": "121117"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jerry McNerney", 
+            "id": "29474"
+        }
+    ], 
+    "links": [
+        {
+            "source": "24302", 
+            "target": "9425"
+        }, 
+        {
+            "source": "24302", 
+            "target": "121117"
+        }, 
+        {
+            "source": "121117", 
+            "target": "29474"
+        }
+    ], 
+    "multigraph": false
+}

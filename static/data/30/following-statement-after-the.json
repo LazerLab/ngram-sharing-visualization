@@ -1,0 +1,210 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Peter J. Roskam", 
+            "id": "6382"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Patty Murray", 
+            "id": "53358"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Barbara Boxer", 
+            "id": "53274"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mario Diaz-Balart", 
+            "id": "24312"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Trey Gowdy", 
+            "id": "121782"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Lucille Roybal-Allard", 
+            "id": "26766"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Gus M. Bilirakis", 
+            "id": "17318"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel E. Lungren", 
+            "id": "16730"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Mark Begich", 
+            "id": "79426"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Louise McIntosh Slaughter", 
+            "id": "26991"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joe Wilson", 
+            "id": "3985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26906", 
+            "target": "46034"
+        }, 
+        {
+            "source": "26906", 
+            "target": "53352"
+        }, 
+        {
+            "source": "53352", 
+            "target": "121782"
+        }, 
+        {
+            "source": "53352", 
+            "target": "53274"
+        }, 
+        {
+            "source": "6382", 
+            "target": "53291"
+        }, 
+        {
+            "source": "6382", 
+            "target": "53274"
+        }, 
+        {
+            "source": "27958", 
+            "target": "21309"
+        }, 
+        {
+            "source": "27958", 
+            "target": "9026"
+        }, 
+        {
+            "source": "53358", 
+            "target": "53274"
+        }, 
+        {
+            "source": "44082", 
+            "target": "5121"
+        }, 
+        {
+            "source": "119478", 
+            "target": "15375"
+        }, 
+        {
+            "source": "24312", 
+            "target": "79426"
+        }, 
+        {
+            "source": "121782", 
+            "target": "3985"
+        }, 
+        {
+            "source": "26766", 
+            "target": "3985"
+        }, 
+        {
+            "source": "17318", 
+            "target": "26991"
+        }, 
+        {
+            "source": "16730", 
+            "target": "27097"
+        }, 
+        {
+            "source": "46971", 
+            "target": "3985"
+        }, 
+        {
+            "source": "35514", 
+            "target": "21309"
+        }, 
+        {
+            "source": "5121", 
+            "target": "15375"
+        }
+    ], 
+    "multigraph": false
+}

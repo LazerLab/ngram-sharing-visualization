@@ -1,0 +1,263 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "links": [
+        {
+            "source": "50895", 
+            "target": "52662"
+        }, 
+        {
+            "source": "50895", 
+            "target": "6382"
+        }, 
+        {
+            "source": "120200", 
+            "target": "26238"
+        }, 
+        {
+            "source": "53273", 
+            "target": "53320"
+        }, 
+        {
+            "source": "33692", 
+            "target": "22318"
+        }, 
+        {
+            "source": "24571", 
+            "target": "23644"
+        }, 
+        {
+            "source": "7349", 
+            "target": "122834"
+        }, 
+        {
+            "source": "542", 
+            "target": "110942"
+        }, 
+        {
+            "source": "542", 
+            "target": "28769"
+        }, 
+        {
+            "source": "26238", 
+            "target": "26732"
+        }, 
+        {
+            "source": "122953", 
+            "target": "2698"
+        }, 
+        {
+            "source": "28769", 
+            "target": "27015"
+        }, 
+        {
+            "source": "28769", 
+            "target": "17188"
+        }, 
+        {
+            "source": "3812", 
+            "target": "26732"
+        }, 
+        {
+            "source": "5148", 
+            "target": "2062"
+        }, 
+        {
+            "source": "53307", 
+            "target": "21926"
+        }, 
+        {
+            "source": "26816", 
+            "target": "4545"
+        }, 
+        {
+            "source": "4545", 
+            "target": "515"
+        }, 
+        {
+            "source": "53294", 
+            "target": "53331"
+        }, 
+        {
+            "source": "26890", 
+            "target": "15691"
+        }, 
+        {
+            "source": "34024", 
+            "target": "110942"
+        }
+    ], 
+    "multigraph": false, 
+    "nodes": [
+        {
+            "id": "50895", 
+            "name": "Robert Hurt", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "120200", 
+            "name": "David G. Valadao", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "53273", 
+            "name": "Dianne Feinstein", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "52662", 
+            "name": "John Barrasso", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "33692", 
+            "name": "Daniel Lipinski", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "6382", 
+            "name": "Peter J. Roskam", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "24571", 
+            "name": "Mike Ross", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "7349", 
+            "name": "David N. Cicilline", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "53320", 
+            "name": "Harry Reid", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "542", 
+            "name": "Jerry Moran", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "26238", 
+            "name": "Mark Pocan", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "122953", 
+            "name": "Chip Cravaack", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "28769", 
+            "name": "Jeff Denham", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "3812", 
+            "name": "Betty McCollum", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "122834", 
+            "name": "Christopher A. Coons", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "5148", 
+            "name": "H. Morgan Griffith", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "23644", 
+            "name": "Jeff Merkley", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "53307", 
+            "name": "Carl Levin", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "26732", 
+            "name": "Nancy Pelosi", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "26816", 
+            "name": "Jack Kingston", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "4545", 
+            "name": "Rodney Alexander", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "53294", 
+            "name": "Tom Harkin", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "26890", 
+            "name": "Steny H. Hoyer", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "27015", 
+            "name": "John A. Boehner", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "15691", 
+            "name": "Lamar Alexander", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "17188", 
+            "name": "John B. Larson", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "21926", 
+            "name": "Roger F. Wicker", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "34024", 
+            "name": "Mike Pence", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "53331", 
+            "name": "Kent Conrad", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "2698", 
+            "name": "Doug Lamborn", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "22318", 
+            "name": "Doc Hastings", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "2062", 
+            "name": "Candice S. Miller", 
+            "party": "Republican"
+        }, 
+        {
+            "id": "110942", 
+            "name": "Michael F. Bennet", 
+            "party": "Democrat"
+        }, 
+        {
+            "id": "515", 
+            "name": "Debbie Stabenow", 
+            "party": "Democrat"
+        }
+    ]
+}

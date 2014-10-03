@@ -1,0 +1,68 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard Hudson", 
+            "id": "136448"
+        }
+    ], 
+    "links": [
+        {
+            "source": "45466", 
+            "target": "44082"
+        }, 
+        {
+            "source": "53352", 
+            "target": "119478"
+        }, 
+        {
+            "source": "53352", 
+            "target": "124938"
+        }, 
+        {
+            "source": "124938", 
+            "target": "136448"
+        }, 
+        {
+            "source": "44082", 
+            "target": "8783"
+        }, 
+        {
+            "source": "8783", 
+            "target": "119478"
+        }
+    ], 
+    "multigraph": false
+}

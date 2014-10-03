@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Steve Daines", 
+            "id": "135720"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mark Sanford", 
+            "id": "21991"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jerrold Nadler", 
+            "id": "26980"
+        }
+    ], 
+    "links": [
+        {
+            "source": "135720", 
+            "target": "120649"
+        }, 
+        {
+            "source": "120649", 
+            "target": "21991"
+        }, 
+        {
+            "source": "46971", 
+            "target": "26980"
+        }
+    ], 
+    "multigraph": false
+}

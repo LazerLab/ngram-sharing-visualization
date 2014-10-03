@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Ryan", 
+            "id": "26344"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "26344"
+        }, 
+        {
+            "source": "127047", 
+            "target": "35514"
+        }, 
+        {
+            "source": "21309", 
+            "target": "9026"
+        }
+    ], 
+    "multigraph": false
+}

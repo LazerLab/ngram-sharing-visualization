@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }
+    ], 
+    "links": [
+        {
+            "source": "24559", 
+            "target": "50895"
+        }, 
+        {
+            "source": "117396", 
+            "target": "44082"
+        }, 
+        {
+            "source": "119478", 
+            "target": "44082"
+        }
+    ], 
+    "multigraph": false
+}

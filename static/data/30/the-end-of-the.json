@@ -1,0 +1,74 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mark Sanford", 
+            "id": "21991"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Tammy Baldwin", 
+            "id": "3470"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Steny H. Hoyer", 
+            "id": "26890"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Darrell E. Issa", 
+            "id": "16553"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Charles B. Rangel", 
+            "id": "26979"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26906", 
+            "target": "18829"
+        }, 
+        {
+            "source": "21991", 
+            "target": "26890"
+        }, 
+        {
+            "source": "3470", 
+            "target": "16553"
+        }, 
+        {
+            "source": "26890", 
+            "target": "120649"
+        }, 
+        {
+            "source": "26979", 
+            "target": "334"
+        }
+    ], 
+    "multigraph": false
+}

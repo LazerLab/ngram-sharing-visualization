@@ -1,0 +1,79 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Cathy McMorris Rodgers", 
+            "id": "3217"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sue Wilkins Myrick", 
+            "id": "21789"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Nan A. S. Hayworth", 
+            "id": "127041"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Reid J. Ribble", 
+            "id": "126240"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Cynthia M. Lummis", 
+            "id": "15546"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Roger F. Wicker", 
+            "id": "21926"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Aaron Schock", 
+            "id": "33428"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Thune", 
+            "id": "398"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert E. Latta", 
+            "id": "9926"
+        }
+    ], 
+    "links": [
+        {
+            "source": "3217", 
+            "target": "9926"
+        }, 
+        {
+            "source": "21789", 
+            "target": "24302"
+        }, 
+        {
+            "source": "127041", 
+            "target": "15546"
+        }, 
+        {
+            "source": "126240", 
+            "target": "21926"
+        }, 
+        {
+            "source": "33428", 
+            "target": "398"
+        }
+    ], 
+    "multigraph": false
+}

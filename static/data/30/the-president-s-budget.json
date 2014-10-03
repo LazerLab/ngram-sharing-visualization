@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Earl Blumenauer", 
+            "id": "367"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lisa Murkowski", 
+            "id": "15841"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles J. \"Chuck\" Fleischmann", 
+            "id": "123456"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Price", 
+            "id": "11853"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Louie Gohmert", 
+            "id": "50029"
+        }
+    ], 
+    "links": [
+        {
+            "source": "367", 
+            "target": "11853"
+        }, 
+        {
+            "source": "367", 
+            "target": "123456"
+        }, 
+        {
+            "source": "15841", 
+            "target": "50029"
+        }
+    ], 
+    "multigraph": false
+}

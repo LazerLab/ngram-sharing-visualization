@@ -1,0 +1,79 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Terri A. Sewell", 
+            "id": "121621"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Louise McIntosh Slaughter", 
+            "id": "26991"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jon Kyl", 
+            "id": "26721"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Shuster", 
+            "id": "55693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Doug Lamborn", 
+            "id": "2698"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Thune", 
+            "id": "398"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }
+    ], 
+    "links": [
+        {
+            "source": "121621", 
+            "target": "55693"
+        }, 
+        {
+            "source": "26991", 
+            "target": "46034"
+        }, 
+        {
+            "source": "53352", 
+            "target": "5121"
+        }, 
+        {
+            "source": "21785", 
+            "target": "26721"
+        }, 
+        {
+            "source": "2698", 
+            "target": "398"
+        }
+    ], 
+    "multigraph": false
+}

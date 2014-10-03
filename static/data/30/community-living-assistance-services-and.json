@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Flores", 
+            "id": "116906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Keith Ellison", 
+            "id": "38982"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael K. Simpson", 
+            "id": "2917"
+        }
+    ], 
+    "links": [
+        {
+            "source": "8783", 
+            "target": "117396"
+        }, 
+        {
+            "source": "8783", 
+            "target": "38982"
+        }, 
+        {
+            "source": "116906", 
+            "target": "2917"
+        }, 
+        {
+            "source": "117396", 
+            "target": "2917"
+        }
+    ], 
+    "multigraph": false
+}

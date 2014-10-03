@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Barbara Lee", 
+            "id": "8315"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Albio Sires", 
+            "id": "22510"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Nancy Pelosi", 
+            "id": "26732"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Denny Rehberg", 
+            "id": "404"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Graves", 
+            "id": "31969"
+        }
+    ], 
+    "links": [
+        {
+            "source": "8315", 
+            "target": "26732"
+        }, 
+        {
+            "source": "22510", 
+            "target": "26732"
+        }, 
+        {
+            "source": "404", 
+            "target": "31969"
+        }
+    ], 
+    "multigraph": false
+}

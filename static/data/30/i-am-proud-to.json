@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David P. Roe", 
+            "id": "65306"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "James A. Himes", 
+            "id": "106744"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Janice D. Schakowsky", 
+            "id": "6387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn A. Westmoreland", 
+            "id": "8001"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119213", 
+            "target": "8001"
+        }, 
+        {
+            "source": "65306", 
+            "target": "35514"
+        }, 
+        {
+            "source": "106744", 
+            "target": "6387"
+        }
+    ], 
+    "multigraph": false
+}

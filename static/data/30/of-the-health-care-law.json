@@ -1,0 +1,106 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ken Calvert", 
+            "id": "26777"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mitch McConnell", 
+            "id": "53298"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dean Heller", 
+            "id": "2291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Susan M. Collins", 
+            "id": "379"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Kurt Schrader", 
+            "id": "10813"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }
+    ], 
+    "links": [
+        {
+            "source": "22175", 
+            "target": "65905"
+        }, 
+        {
+            "source": "26906", 
+            "target": "10813"
+        }, 
+        {
+            "source": "26777", 
+            "target": "15375"
+        }, 
+        {
+            "source": "27522", 
+            "target": "2291"
+        }, 
+        {
+            "source": "53298", 
+            "target": "65905"
+        }, 
+        {
+            "source": "2291", 
+            "target": "11812"
+        }, 
+        {
+            "source": "15691", 
+            "target": "379"
+        }, 
+        {
+            "source": "9425", 
+            "target": "11812"
+        }
+    ], 
+    "multigraph": false
+}

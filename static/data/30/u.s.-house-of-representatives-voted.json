@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Gregg Harper", 
+            "id": "101985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Huelskamp", 
+            "id": "12571"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Bishop", 
+            "id": "50544"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Shelley Moore Capito", 
+            "id": "11701"
+        }
+    ], 
+    "links": [
+        {
+            "source": "101985", 
+            "target": "50544"
+        }, 
+        {
+            "source": "12571", 
+            "target": "50544"
+        }, 
+        {
+            "source": "12571", 
+            "target": "11701"
+        }
+    ], 
+    "multigraph": false
+}

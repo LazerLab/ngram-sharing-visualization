@@ -1,0 +1,65 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Geoff Davis", 
+            "id": "35212"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank A. LoBiondo", 
+            "id": "21890"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Thomas J. Rooney", 
+            "id": "107800"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Joe Courtney", 
+            "id": "30333"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert J. Dold", 
+            "id": "116548"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Mike Ross", 
+            "id": "24571"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27015", 
+            "target": "15375"
+        }, 
+        {
+            "source": "35212", 
+            "target": "21890"
+        }, 
+        {
+            "source": "107800", 
+            "target": "116548"
+        }, 
+        {
+            "source": "30333", 
+            "target": "24571"
+        }
+    ], 
+    "multigraph": false
+}

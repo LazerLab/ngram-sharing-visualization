@@ -1,0 +1,68 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Cook", 
+            "id": "58121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Louie Gohmert", 
+            "id": "50029"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Peter J. Roskam", 
+            "id": "6382"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Posey", 
+            "id": "24280"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }
+    ], 
+    "links": [
+        {
+            "source": "44082", 
+            "target": "50029"
+        }, 
+        {
+            "source": "44082", 
+            "target": "5121"
+        }, 
+        {
+            "source": "15375", 
+            "target": "5121"
+        }, 
+        {
+            "source": "58121", 
+            "target": "6382"
+        }, 
+        {
+            "source": "50029", 
+            "target": "24280"
+        }, 
+        {
+            "source": "6382", 
+            "target": "24280"
+        }
+    ], 
+    "multigraph": false
+}

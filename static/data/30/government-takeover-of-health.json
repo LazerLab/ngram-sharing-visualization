@@ -1,0 +1,196 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jon Kyl", 
+            "id": "26721"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Gregg Harper", 
+            "id": "101985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard Hudson", 
+            "id": "136448"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Walberg", 
+            "id": "8618"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Todd C. Young", 
+            "id": "120345"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David Schweikert", 
+            "id": "106387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Spencer Bachus", 
+            "id": "26715"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Pence", 
+            "id": "34024"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Doc Hastings", 
+            "id": "22318"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Roy Blunt", 
+            "id": "418"
+        }
+    ], 
+    "links": [
+        {
+            "source": "50895", 
+            "target": "22318"
+        }, 
+        {
+            "source": "50895", 
+            "target": "8618"
+        }, 
+        {
+            "source": "53352", 
+            "target": "136448"
+        }, 
+        {
+            "source": "21785", 
+            "target": "27015"
+        }, 
+        {
+            "source": "26721", 
+            "target": "26715"
+        }, 
+        {
+            "source": "20400", 
+            "target": "27015"
+        }, 
+        {
+            "source": "20400", 
+            "target": "9026"
+        }, 
+        {
+            "source": "20400", 
+            "target": "26715"
+        }, 
+        {
+            "source": "20400", 
+            "target": "18829"
+        }, 
+        {
+            "source": "18594", 
+            "target": "27015"
+        }, 
+        {
+            "source": "101985", 
+            "target": "9026"
+        }, 
+        {
+            "source": "27080", 
+            "target": "27032"
+        }, 
+        {
+            "source": "27080", 
+            "target": "53291"
+        }, 
+        {
+            "source": "120345", 
+            "target": "53349"
+        }, 
+        {
+            "source": "53349", 
+            "target": "106387"
+        }, 
+        {
+            "source": "27522", 
+            "target": "418"
+        }, 
+        {
+            "source": "27015", 
+            "target": "418"
+        }, 
+        {
+            "source": "34024", 
+            "target": "18829"
+        }
+    ], 
+    "multigraph": false
+}

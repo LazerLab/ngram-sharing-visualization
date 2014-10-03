@@ -1,0 +1,133 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Huelskamp", 
+            "id": "12571"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott DesJarlais", 
+            "id": "123473"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ed Whitfield", 
+            "id": "21873"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David Schweikert", 
+            "id": "106387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ron Johnson", 
+            "id": "126217"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Cassidy", 
+            "id": "69494"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael K. Simpson", 
+            "id": "2917"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Virginia Foxx", 
+            "id": "6051"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Walberg", 
+            "id": "8618"
+        }
+    ], 
+    "links": [
+        {
+            "source": "20400", 
+            "target": "24559"
+        }, 
+        {
+            "source": "50895", 
+            "target": "12571"
+        }, 
+        {
+            "source": "50895", 
+            "target": "8618"
+        }, 
+        {
+            "source": "12571", 
+            "target": "53352"
+        }, 
+        {
+            "source": "123473", 
+            "target": "35514"
+        }, 
+        {
+            "source": "21873", 
+            "target": "2917"
+        }, 
+        {
+            "source": "106387", 
+            "target": "53349"
+        }, 
+        {
+            "source": "126217", 
+            "target": "27097"
+        }, 
+        {
+            "source": "126217", 
+            "target": "6051"
+        }, 
+        {
+            "source": "69494", 
+            "target": "24559"
+        }, 
+        {
+            "source": "69494", 
+            "target": "8618"
+        }
+    ], 
+    "multigraph": false
+}

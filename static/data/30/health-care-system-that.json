@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Scott R. Tipton", 
+            "id": "65403"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Renee L. Ellmers", 
+            "id": "120897"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Patrick J. Leahy", 
+            "id": "53353"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael C. Burgess", 
+            "id": "50120"
+        }
+    ], 
+    "links": [
+        {
+            "source": "65403", 
+            "target": "120649"
+        }, 
+        {
+            "source": "120897", 
+            "target": "120897"
+        }, 
+        {
+            "source": "53353", 
+            "target": "50120"
+        }
+    ], 
+    "multigraph": false
+}

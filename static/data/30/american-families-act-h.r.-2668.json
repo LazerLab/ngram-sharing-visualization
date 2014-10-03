@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Greg Walden", 
+            "id": "2979"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119213", 
+            "target": "27097"
+        }, 
+        {
+            "source": "119213", 
+            "target": "2979"
+        }, 
+        {
+            "source": "27097", 
+            "target": "9425"
+        }, 
+        {
+            "source": "2979", 
+            "target": "24302"
+        }
+    ], 
+    "multigraph": false
+}

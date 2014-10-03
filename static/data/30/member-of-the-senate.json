@@ -1,0 +1,60 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pat Roberts", 
+            "id": "26866"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Benjamin L. Cardin", 
+            "id": "26888"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James M. Inhofe", 
+            "id": "27027"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Thomas R. Carper", 
+            "id": "22421"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Maria Cantwell", 
+            "id": "27122"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53352", 
+            "target": "27027"
+        }, 
+        {
+            "source": "26866", 
+            "target": "22421"
+        }, 
+        {
+            "source": "15691", 
+            "target": "15691"
+        }, 
+        {
+            "source": "26888", 
+            "target": "27122"
+        }
+    ], 
+    "multigraph": false
+}

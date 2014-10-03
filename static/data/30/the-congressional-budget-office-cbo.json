@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Walberg", 
+            "id": "8618"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }
+    ], 
+    "links": [
+        {
+            "source": "24559", 
+            "target": "8618"
+        }, 
+        {
+            "source": "50895", 
+            "target": "8618"
+        }, 
+        {
+            "source": "50895", 
+            "target": "53352"
+        }
+    ], 
+    "multigraph": false
+}

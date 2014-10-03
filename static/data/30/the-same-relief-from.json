@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jack Kingston", 
+            "id": "26816"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26816", 
+            "target": "119213"
+        }, 
+        {
+            "source": "119213", 
+            "target": "27097"
+        }, 
+        {
+            "source": "27097", 
+            "target": "18594"
+        }
+    ], 
+    "multigraph": false
+}

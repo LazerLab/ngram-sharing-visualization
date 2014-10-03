@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jack Reed", 
+            "id": "27060"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sam Farr", 
+            "id": "26745"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Nancy Pelosi", 
+            "id": "26732"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Murphy", 
+            "id": "9794"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "27060"
+        }, 
+        {
+            "source": "27060", 
+            "target": "26745"
+        }, 
+        {
+            "source": "26732", 
+            "target": "9794"
+        }
+    ], 
+    "multigraph": false
+}

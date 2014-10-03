@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Kline", 
+            "id": "20311"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Billy Long", 
+            "id": "123401"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }
+    ], 
+    "links": [
+        {
+            "source": "46034", 
+            "target": "26906"
+        }, 
+        {
+            "source": "46034", 
+            "target": "123401"
+        }, 
+        {
+            "source": "20311", 
+            "target": "26906"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,166 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Edward J. Markey", 
+            "id": "26900"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jerry McNerney", 
+            "id": "29474"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Daines", 
+            "id": "135720"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Huelskamp", 
+            "id": "12571"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Todd C. Young", 
+            "id": "120345"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Nita M. Lowey", 
+            "id": "26982"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "F. James Sensenbrenner Jr.", 
+            "id": "27142"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kenny Marchant", 
+            "id": "5549"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John P. Sarbanes", 
+            "id": "66575"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott DesJarlais", 
+            "id": "123473"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John R. Carter", 
+            "id": "49296"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Dent", 
+            "id": "9121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119213", 
+            "target": "27097"
+        }, 
+        {
+            "source": "119213", 
+            "target": "26982"
+        }, 
+        {
+            "source": "124938", 
+            "target": "49296"
+        }, 
+        {
+            "source": "26900", 
+            "target": "29474"
+        }, 
+        {
+            "source": "53352", 
+            "target": "18594"
+        }, 
+        {
+            "source": "135720", 
+            "target": "9121"
+        }, 
+        {
+            "source": "12571", 
+            "target": "18594"
+        }, 
+        {
+            "source": "27958", 
+            "target": "120345"
+        }, 
+        {
+            "source": "27958", 
+            "target": "27522"
+        }, 
+        {
+            "source": "27142", 
+            "target": "46034"
+        }, 
+        {
+            "source": "5549", 
+            "target": "123473"
+        }, 
+        {
+            "source": "66575", 
+            "target": "21309"
+        }, 
+        {
+            "source": "21309", 
+            "target": "46034"
+        }
+    ], 
+    "multigraph": false
+}

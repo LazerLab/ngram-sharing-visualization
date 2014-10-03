@@ -1,0 +1,96 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Edward R. Royce", 
+            "id": "26772"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jim Gerlach", 
+            "id": "5226"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Geoff Davis", 
+            "id": "35212"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Southerland II", 
+            "id": "124329"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Pence", 
+            "id": "34024"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Doug Lamborn", 
+            "id": "2698"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Thune", 
+            "id": "398"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26772", 
+            "target": "46034"
+        }, 
+        {
+            "source": "27522", 
+            "target": "398"
+        }, 
+        {
+            "source": "15375", 
+            "target": "542"
+        }, 
+        {
+            "source": "15375", 
+            "target": "2698"
+        }, 
+        {
+            "source": "5226", 
+            "target": "2698"
+        }, 
+        {
+            "source": "35212", 
+            "target": "124329"
+        }, 
+        {
+            "source": "542", 
+            "target": "34024"
+        }, 
+        {
+            "source": "2698", 
+            "target": "398"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Eliot L. Engel", 
+            "id": "26972"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119478", 
+            "target": "26972"
+        }, 
+        {
+            "source": "119478", 
+            "target": "5121"
+        }, 
+        {
+            "source": "5121", 
+            "target": "44082"
+        }
+    ], 
+    "multigraph": false
+}

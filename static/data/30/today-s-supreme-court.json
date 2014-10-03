@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mario Diaz-Balart", 
+            "id": "24312"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "334"
+        }, 
+        {
+            "source": "127047", 
+            "target": "24312"
+        }, 
+        {
+            "source": "46971", 
+            "target": "334"
+        }
+    ], 
+    "multigraph": false
+}

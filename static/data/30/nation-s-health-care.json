@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Shimkus", 
+            "id": "246"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael C. Burgess", 
+            "id": "50120"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26798", 
+            "target": "26906"
+        }, 
+        {
+            "source": "26906", 
+            "target": "53291"
+        }, 
+        {
+            "source": "246", 
+            "target": "50120"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,210 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John Hoeven", 
+            "id": "41788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Stevan Pearce", 
+            "id": "10655"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Andr\u00e9 Carson", 
+            "id": "84917"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Alan Nunnelee", 
+            "id": "8326"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Portman", 
+            "id": "27008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Burton", 
+            "id": "26855"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ron DeSantis", 
+            "id": "137630"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank C. Guinta", 
+            "id": "42946"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted S. Yoho", 
+            "id": "137622"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Yvette D. Clarke", 
+            "id": "44741"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Christopher A. Coons", 
+            "id": "122834"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ed Whitfield", 
+            "id": "21873"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael K. Simpson", 
+            "id": "2917"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Albio Sires", 
+            "id": "22510"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Alexander", 
+            "id": "4545"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Bishop", 
+            "id": "50544"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David Schweikert", 
+            "id": "106387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Susan M. Collins", 
+            "id": "379"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Debbie Stabenow", 
+            "id": "515"
+        }
+    ], 
+    "links": [
+        {
+            "source": "41788", 
+            "target": "379"
+        }, 
+        {
+            "source": "41788", 
+            "target": "27032"
+        }, 
+        {
+            "source": "10655", 
+            "target": "119478"
+        }, 
+        {
+            "source": "84917", 
+            "target": "21873"
+        }, 
+        {
+            "source": "84917", 
+            "target": "2917"
+        }, 
+        {
+            "source": "119478", 
+            "target": "4545"
+        }, 
+        {
+            "source": "117396", 
+            "target": "27008"
+        }, 
+        {
+            "source": "8326", 
+            "target": "4545"
+        }, 
+        {
+            "source": "8326", 
+            "target": "27080"
+        }, 
+        {
+            "source": "26855", 
+            "target": "106387"
+        }, 
+        {
+            "source": "137630", 
+            "target": "27080"
+        }, 
+        {
+            "source": "42946", 
+            "target": "27032"
+        }, 
+        {
+            "source": "42946", 
+            "target": "50544"
+        }, 
+        {
+            "source": "137622", 
+            "target": "4545"
+        }, 
+        {
+            "source": "44741", 
+            "target": "4545"
+        }, 
+        {
+            "source": "122834", 
+            "target": "379"
+        }, 
+        {
+            "source": "21873", 
+            "target": "22510"
+        }, 
+        {
+            "source": "21309", 
+            "target": "53294"
+        }, 
+        {
+            "source": "22510", 
+            "target": "515"
+        }
+    ], 
+    "multigraph": false
+}

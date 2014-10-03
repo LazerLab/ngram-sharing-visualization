@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Elton Gallegly", 
+            "id": "26750"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Anna G. Eshoo", 
+            "id": "26741"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26906", 
+            "target": "26741"
+        }, 
+        {
+            "source": "53352", 
+            "target": "26750"
+        }, 
+        {
+            "source": "53352", 
+            "target": "26741"
+        }
+    ], 
+    "multigraph": false
+}

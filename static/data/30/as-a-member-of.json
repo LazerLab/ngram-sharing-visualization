@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Sherrod Brown", 
+            "id": "27018"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ed Whitfield", 
+            "id": "21873"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Zoe Lofgren", 
+            "id": "21899"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pat Roberts", 
+            "id": "26866"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Thomas R. Carper", 
+            "id": "22421"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27018", 
+            "target": "21873"
+        }, 
+        {
+            "source": "21899", 
+            "target": "24046"
+        }, 
+        {
+            "source": "26866", 
+            "target": "22421"
+        }
+    ], 
+    "multigraph": false
+}

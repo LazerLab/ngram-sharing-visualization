@@ -1,0 +1,92 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jo Ann Emerson", 
+            "id": "903"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Bishop", 
+            "id": "50544"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Geoff Davis", 
+            "id": "35212"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Bill Foster", 
+            "id": "101632"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Cheri Bustos", 
+            "id": "134964"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Alan Nunnelee", 
+            "id": "8326"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Alexander", 
+            "id": "4545"
+        }
+    ], 
+    "links": [
+        {
+            "source": "903", 
+            "target": "24046"
+        }, 
+        {
+            "source": "50544", 
+            "target": "35212"
+        }, 
+        {
+            "source": "102008", 
+            "target": "21785"
+        }, 
+        {
+            "source": "102008", 
+            "target": "27080"
+        }, 
+        {
+            "source": "101632", 
+            "target": "134964"
+        }, 
+        {
+            "source": "101632", 
+            "target": "4545"
+        }, 
+        {
+            "source": "8326", 
+            "target": "4545"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,60 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Eliot L. Engel", 
+            "id": "26972"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Frank Pallone Jr.", 
+            "id": "26951"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles F. Bass", 
+            "id": "22216"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph R. Pitts", 
+            "id": "265"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Renee L. Ellmers", 
+            "id": "120897"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "17644"
+        }, 
+        {
+            "source": "26972", 
+            "target": "17644"
+        }, 
+        {
+            "source": "26951", 
+            "target": "120897"
+        }, 
+        {
+            "source": "22216", 
+            "target": "265"
+        }
+    ], 
+    "multigraph": false
+}

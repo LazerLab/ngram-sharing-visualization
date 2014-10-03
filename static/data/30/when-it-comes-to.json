@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Billy Long", 
+            "id": "123401"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Mike Thompson", 
+            "id": "3564"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Lois Frankel", 
+            "id": "8102"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Grimm", 
+            "id": "127075"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Diane Black", 
+            "id": "25292"
+        }
+    ], 
+    "links": [
+        {
+            "source": "123401", 
+            "target": "25292"
+        }, 
+        {
+            "source": "3564", 
+            "target": "334"
+        }, 
+        {
+            "source": "8102", 
+            "target": "127075"
+        }
+    ], 
+    "multigraph": false
+}

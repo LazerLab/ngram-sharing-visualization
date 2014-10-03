@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tim Ryan", 
+            "id": "45638"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Carolyn McCarthy", 
+            "id": "693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert B. Aderholt", 
+            "id": "441"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Dennis Cardoza", 
+            "id": "9680"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Thomas R. Carper", 
+            "id": "22421"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Bill Pascrell Jr.", 
+            "id": "478"
+        }
+    ], 
+    "links": [
+        {
+            "source": "45638", 
+            "target": "441"
+        }, 
+        {
+            "source": "45638", 
+            "target": "478"
+        }, 
+        {
+            "source": "693", 
+            "target": "478"
+        }, 
+        {
+            "source": "9680", 
+            "target": "22421"
+        }
+    ], 
+    "multigraph": false
+}

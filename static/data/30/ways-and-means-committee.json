@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Cynthia M. Lummis", 
+            "id": "15546"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dave Camp", 
+            "id": "26911"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel E. Lungren", 
+            "id": "16730"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Johnson", 
+            "id": "27079"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }
+    ], 
+    "links": [
+        {
+            "source": "15546", 
+            "target": "27079"
+        }, 
+        {
+            "source": "15546", 
+            "target": "102008"
+        }, 
+        {
+            "source": "26911", 
+            "target": "16730"
+        }
+    ], 
+    "multigraph": false
+}

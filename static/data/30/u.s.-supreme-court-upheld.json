@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Kristi L. Noem", 
+            "id": "58189"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Anna G. Eshoo", 
+            "id": "26741"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Elton Gallegly", 
+            "id": "26750"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }
+    ], 
+    "links": [
+        {
+            "source": "58189", 
+            "target": "26750"
+        }, 
+        {
+            "source": "58189", 
+            "target": "53352"
+        }, 
+        {
+            "source": "26741", 
+            "target": "53352"
+        }
+    ], 
+    "multigraph": false
+}

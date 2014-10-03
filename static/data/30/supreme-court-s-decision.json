@@ -1,0 +1,100 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve King", 
+            "id": "10853"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Lewis", 
+            "id": "26769"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Burton", 
+            "id": "26855"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert L. Turner", 
+            "id": "127071"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Matt Salmon", 
+            "id": "22184"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "22184"
+        }, 
+        {
+            "source": "124938", 
+            "target": "26855"
+        }, 
+        {
+            "source": "10853", 
+            "target": "26855"
+        }, 
+        {
+            "source": "26769", 
+            "target": "15691"
+        }, 
+        {
+            "source": "26769", 
+            "target": "53291"
+        }, 
+        {
+            "source": "15691", 
+            "target": "127071"
+        }, 
+        {
+            "source": "46971", 
+            "target": "22184"
+        }, 
+        {
+            "source": "46971", 
+            "target": "17644"
+        }, 
+        {
+            "source": "53291", 
+            "target": "17644"
+        }
+    ], 
+    "multigraph": false
+}

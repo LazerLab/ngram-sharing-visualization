@@ -1,0 +1,60 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Gregg Harper", 
+            "id": "101985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Shelley Moore Capito", 
+            "id": "11701"
+        }
+    ], 
+    "links": [
+        {
+            "source": "50895", 
+            "target": "27097"
+        }, 
+        {
+            "source": "53291", 
+            "target": "18829"
+        }, 
+        {
+            "source": "27032", 
+            "target": "101985"
+        }, 
+        {
+            "source": "101985", 
+            "target": "11701"
+        }
+    ], 
+    "multigraph": false
+}

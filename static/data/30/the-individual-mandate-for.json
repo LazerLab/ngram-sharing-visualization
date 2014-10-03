@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Shuster", 
+            "id": "55693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Posey", 
+            "id": "24280"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Gus M. Bilirakis", 
+            "id": "17318"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }
+    ], 
+    "links": [
+        {
+            "source": "120649", 
+            "target": "9425"
+        }, 
+        {
+            "source": "55693", 
+            "target": "24280"
+        }, 
+        {
+            "source": "17318", 
+            "target": "5121"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,78 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Cory Gardner", 
+            "id": "30004"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Eliot L. Engel", 
+            "id": "26972"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael C. Burgess", 
+            "id": "50120"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Frank Pallone Jr.", 
+            "id": "26951"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Leonard Lance", 
+            "id": "4443"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Renee L. Ellmers", 
+            "id": "120897"
+        }
+    ], 
+    "links": [
+        {
+            "source": "30004", 
+            "target": "26972"
+        }, 
+        {
+            "source": "30004", 
+            "target": "117396"
+        }, 
+        {
+            "source": "50120", 
+            "target": "117396"
+        }, 
+        {
+            "source": "26906", 
+            "target": "26906"
+        }, 
+        {
+            "source": "26951", 
+            "target": "120897"
+        }, 
+        {
+            "source": "4443", 
+            "target": "17644"
+        }
+    ], 
+    "multigraph": false
+}

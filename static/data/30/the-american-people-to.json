@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Elton Gallegly", 
+            "id": "26750"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Ryan", 
+            "id": "26344"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27015", 
+            "target": "15375"
+        }, 
+        {
+            "source": "70001", 
+            "target": "26750"
+        }, 
+        {
+            "source": "26750", 
+            "target": "26344"
+        }
+    ], 
+    "multigraph": false
+}

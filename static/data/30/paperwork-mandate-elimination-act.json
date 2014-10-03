@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Daniel E. Lungren", 
+            "id": "16730"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles J. \"Chuck\" Fleischmann", 
+            "id": "123456"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jon Runyan", 
+            "id": "121117"
+        }
+    ], 
+    "links": [
+        {
+            "source": "16730", 
+            "target": "8783"
+        }, 
+        {
+            "source": "24302", 
+            "target": "9425"
+        }, 
+        {
+            "source": "24302", 
+            "target": "121117"
+        }, 
+        {
+            "source": "123456", 
+            "target": "121117"
+        }
+    ], 
+    "multigraph": false
+}

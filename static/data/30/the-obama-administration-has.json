@@ -1,0 +1,96 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "David P. Roe", 
+            "id": "65306"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Harold Rogers", 
+            "id": "26875"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael E. Capuano", 
+            "id": "18883"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jack Kingston", 
+            "id": "26816"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Greg Walden", 
+            "id": "2979"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert E. Latta", 
+            "id": "9926"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Renee L. Ellmers", 
+            "id": "120897"
+        }
+    ], 
+    "links": [
+        {
+            "source": "65306", 
+            "target": "9926"
+        }, 
+        {
+            "source": "27522", 
+            "target": "120897"
+        }, 
+        {
+            "source": "21785", 
+            "target": "8783"
+        }, 
+        {
+            "source": "26875", 
+            "target": "26816"
+        }, 
+        {
+            "source": "26875", 
+            "target": "18883"
+        }, 
+        {
+            "source": "18883", 
+            "target": "2979"
+        }, 
+        {
+            "source": "8783", 
+            "target": "117396"
+        }, 
+        {
+            "source": "120897", 
+            "target": "120897"
+        }
+    ], 
+    "multigraph": false
+}

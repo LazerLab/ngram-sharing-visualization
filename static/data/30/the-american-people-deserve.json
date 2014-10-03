@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Posey", 
+            "id": "24280"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael C. Burgess", 
+            "id": "50120"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Denham", 
+            "id": "28769"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27015", 
+            "target": "50120"
+        }, 
+        {
+            "source": "24280", 
+            "target": "28769"
+        }, 
+        {
+            "source": "117396", 
+            "target": "50120"
+        }
+    ], 
+    "multigraph": false
+}

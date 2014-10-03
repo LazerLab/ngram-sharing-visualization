@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marsha Blackburn", 
+            "id": "25186"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Hoeven", 
+            "id": "41788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }
+    ], 
+    "links": [
+        {
+            "source": "46971", 
+            "target": "25186"
+        }, 
+        {
+            "source": "46971", 
+            "target": "44082"
+        }, 
+        {
+            "source": "117396", 
+            "target": "41788"
+        }, 
+        {
+            "source": "41788", 
+            "target": "44082"
+        }
+    ], 
+    "multigraph": false
+}

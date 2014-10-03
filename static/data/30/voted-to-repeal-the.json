@@ -1,0 +1,60 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Steven C. LaTourette", 
+            "id": "21798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sue Wilkins Myrick", 
+            "id": "21789"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott Garrett", 
+            "id": "4430"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Roy Blunt", 
+            "id": "418"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn A. Westmoreland", 
+            "id": "8001"
+        }
+    ], 
+    "links": [
+        {
+            "source": "21798", 
+            "target": "124938"
+        }, 
+        {
+            "source": "21798", 
+            "target": "21789"
+        }, 
+        {
+            "source": "5121", 
+            "target": "418"
+        }, 
+        {
+            "source": "4430", 
+            "target": "8001"
+        }
+    ], 
+    "multigraph": false
+}

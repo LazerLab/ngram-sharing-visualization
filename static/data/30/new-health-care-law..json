@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Michael T. McCaul", 
+            "id": "49210"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Beto O'Rourke", 
+            "id": "78533"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Huelskamp", 
+            "id": "12571"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Rick Larsen", 
+            "id": "56231"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph R. Pitts", 
+            "id": "265"
+        }
+    ], 
+    "links": [
+        {
+            "source": "49210", 
+            "target": "78533"
+        }, 
+        {
+            "source": "12571", 
+            "target": "22175"
+        }, 
+        {
+            "source": "56231", 
+            "target": "265"
+        }
+    ], 
+    "multigraph": false
+}

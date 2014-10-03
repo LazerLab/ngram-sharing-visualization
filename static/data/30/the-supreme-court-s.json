@@ -1,0 +1,231 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert L. Turner", 
+            "id": "127071"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve King", 
+            "id": "10853"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Lewis", 
+            "id": "26769"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Francisco \"Quico\" Canseco", 
+            "id": "50146"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank C. Guinta", 
+            "id": "42946"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted S. Yoho", 
+            "id": "137622"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Burton", 
+            "id": "26855"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Carl Levin", 
+            "id": "53307"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Steve Cohen", 
+            "id": "24340"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Geoff Davis", 
+            "id": "35212"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Matt Salmon", 
+            "id": "22184"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26906", 
+            "target": "26798"
+        }, 
+        {
+            "source": "26906", 
+            "target": "15691"
+        }, 
+        {
+            "source": "53352", 
+            "target": "26769"
+        }, 
+        {
+            "source": "53352", 
+            "target": "53349"
+        }, 
+        {
+            "source": "334", 
+            "target": "127047"
+        }, 
+        {
+            "source": "334", 
+            "target": "11812"
+        }, 
+        {
+            "source": "127071", 
+            "target": "46971"
+        }, 
+        {
+            "source": "22175", 
+            "target": "137622"
+        }, 
+        {
+            "source": "22175", 
+            "target": "17644"
+        }, 
+        {
+            "source": "10853", 
+            "target": "26855"
+        }, 
+        {
+            "source": "26769", 
+            "target": "70001"
+        }, 
+        {
+            "source": "124938", 
+            "target": "35212"
+        }, 
+        {
+            "source": "124938", 
+            "target": "26855"
+        }, 
+        {
+            "source": "50146", 
+            "target": "53291"
+        }, 
+        {
+            "source": "42946", 
+            "target": "70001"
+        }, 
+        {
+            "source": "137622", 
+            "target": "46971"
+        }, 
+        {
+            "source": "11812", 
+            "target": "65905"
+        }, 
+        {
+            "source": "65905", 
+            "target": "53291"
+        }, 
+        {
+            "source": "127047", 
+            "target": "53349"
+        }, 
+        {
+            "source": "26798", 
+            "target": "22184"
+        }, 
+        {
+            "source": "53307", 
+            "target": "24340"
+        }, 
+        {
+            "source": "17644", 
+            "target": "22184"
+        }, 
+        {
+            "source": "53291", 
+            "target": "15691"
+        }
+    ], 
+    "multigraph": false
+}

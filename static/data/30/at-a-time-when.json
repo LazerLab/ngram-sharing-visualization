@@ -1,0 +1,74 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Alexander", 
+            "id": "4545"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Patrick J. Leahy", 
+            "id": "53353"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marco Rubio", 
+            "id": "1601"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dave Camp", 
+            "id": "26911"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }
+    ], 
+    "links": [
+        {
+            "source": "50895", 
+            "target": "4545"
+        }, 
+        {
+            "source": "53353", 
+            "target": "26911"
+        }, 
+        {
+            "source": "27522", 
+            "target": "26911"
+        }, 
+        {
+            "source": "1601", 
+            "target": "20400"
+        }, 
+        {
+            "source": "26798", 
+            "target": "9425"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,79 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Michael B. Enzi", 
+            "id": "558"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sue Wilkins Myrick", 
+            "id": "21789"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Stevan Pearce", 
+            "id": "10655"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }
+    ], 
+    "links": [
+        {
+            "source": "558", 
+            "target": "20400"
+        }, 
+        {
+            "source": "21789", 
+            "target": "24046"
+        }, 
+        {
+            "source": "10655", 
+            "target": "119478"
+        }, 
+        {
+            "source": "21785", 
+            "target": "27080"
+        }, 
+        {
+            "source": "542", 
+            "target": "46034"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27958", 
+            "target": "27080"
+        }, 
+        {
+            "source": "120649", 
+            "target": "18594"
+        }, 
+        {
+            "source": "9425", 
+            "target": "18594"
+        }
+    ], 
+    "multigraph": false
+}

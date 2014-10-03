@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jerry Lewis", 
+            "id": "26769"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "F. James Sensenbrenner Jr.", 
+            "id": "27142"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Roger F. Wicker", 
+            "id": "21926"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael B. Enzi", 
+            "id": "558"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26769", 
+            "target": "334"
+        }, 
+        {
+            "source": "26769", 
+            "target": "65905"
+        }, 
+        {
+            "source": "27142", 
+            "target": "65905"
+        }, 
+        {
+            "source": "21926", 
+            "target": "558"
+        }
+    ], 
+    "multigraph": false
+}

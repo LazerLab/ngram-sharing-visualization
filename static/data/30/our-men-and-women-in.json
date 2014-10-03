@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Xavier Becerra", 
+            "id": "26754"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marsha Blackburn", 
+            "id": "25186"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Hoeven", 
+            "id": "41788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michele Bachmann", 
+            "id": "54675"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael E. Capuano", 
+            "id": "18883"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Huizenga", 
+            "id": "38351"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26754", 
+            "target": "18883"
+        }, 
+        {
+            "source": "25186", 
+            "target": "38351"
+        }, 
+        {
+            "source": "25186", 
+            "target": "41788"
+        }, 
+        {
+            "source": "41788", 
+            "target": "54675"
+        }
+    ], 
+    "multigraph": false
+}

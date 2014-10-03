@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Chaka Fattah", 
+            "id": "21850"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ed Whitfield", 
+            "id": "21873"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph R. Pitts", 
+            "id": "265"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Doug Lamborn", 
+            "id": "2698"
+        }
+    ], 
+    "links": [
+        {
+            "source": "21850", 
+            "target": "265"
+        }, 
+        {
+            "source": "21873", 
+            "target": "265"
+        }, 
+        {
+            "source": "21873", 
+            "target": "2698"
+        }
+    ], 
+    "multigraph": false
+}

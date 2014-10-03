@@ -1,0 +1,59 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Cook", 
+            "id": "58121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Peter J. Roskam", 
+            "id": "6382"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }
+    ], 
+    "links": [
+        {
+            "source": "102008", 
+            "target": "46971"
+        }, 
+        {
+            "source": "102008", 
+            "target": "6382"
+        }, 
+        {
+            "source": "58121", 
+            "target": "6382"
+        }, 
+        {
+            "source": "46971", 
+            "target": "117396"
+        }, 
+        {
+            "source": "117396", 
+            "target": "5121"
+        }
+    ], 
+    "multigraph": false
+}

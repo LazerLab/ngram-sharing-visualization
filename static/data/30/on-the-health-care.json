@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }
+    ], 
+    "links": [
+        {
+            "source": "334", 
+            "target": "26906"
+        }, 
+        {
+            "source": "26906", 
+            "target": "53291"
+        }, 
+        {
+            "source": "20400", 
+            "target": "27958"
+        }
+    ], 
+    "multigraph": false
+}

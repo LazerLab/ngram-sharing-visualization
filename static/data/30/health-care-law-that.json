@@ -1,0 +1,73 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Portman", 
+            "id": "27008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marco Rubio", 
+            "id": "1601"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Susan M. Collins", 
+            "id": "379"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dave Camp", 
+            "id": "26911"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert T. Schilling", 
+            "id": "116570"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119213", 
+            "target": "116570"
+        }, 
+        {
+            "source": "27008", 
+            "target": "8783"
+        }, 
+        {
+            "source": "1601", 
+            "target": "379"
+        }, 
+        {
+            "source": "1601", 
+            "target": "15691"
+        }, 
+        {
+            "source": "379", 
+            "target": "116570"
+        }, 
+        {
+            "source": "8783", 
+            "target": "26911"
+        }
+    ], 
+    "multigraph": false
+}

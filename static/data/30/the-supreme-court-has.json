@@ -1,0 +1,87 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Chaka Fattah", 
+            "id": "21850"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Huelskamp", 
+            "id": "12571"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Anna G. Eshoo", 
+            "id": "26741"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Abney Culberson", 
+            "id": "5488"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Geoff Davis", 
+            "id": "35212"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Francisco \"Quico\" Canseco", 
+            "id": "50146"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Wm. Lacy Clay", 
+            "id": "8967"
+        }
+    ], 
+    "links": [
+        {
+            "source": "21850", 
+            "target": "35514"
+        }, 
+        {
+            "source": "12571", 
+            "target": "124938"
+        }, 
+        {
+            "source": "26741", 
+            "target": "22175"
+        }, 
+        {
+            "source": "26741", 
+            "target": "35514"
+        }, 
+        {
+            "source": "5488", 
+            "target": "50146"
+        }, 
+        {
+            "source": "35212", 
+            "target": "124938"
+        }, 
+        {
+            "source": "22175", 
+            "target": "8967"
+        }
+    ], 
+    "multigraph": false
+}

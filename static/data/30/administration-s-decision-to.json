@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jeff Duncan", 
+            "id": "47967"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }
+    ], 
+    "links": [
+        {
+            "source": "47967", 
+            "target": "135705"
+        }, 
+        {
+            "source": "135705", 
+            "target": "27522"
+        }, 
+        {
+            "source": "18594", 
+            "target": "27522"
+        }
+    ], 
+    "multigraph": false
+}

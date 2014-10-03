@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Jack Reed", 
+            "id": "27060"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Luke Messer", 
+            "id": "33997"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sherrod Brown", 
+            "id": "27018"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Patrick Meehan", 
+            "id": "119474"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27060", 
+            "target": "27018"
+        }, 
+        {
+            "source": "27060", 
+            "target": "33997"
+        }, 
+        {
+            "source": "24302", 
+            "target": "119474"
+        }
+    ], 
+    "multigraph": false
+}

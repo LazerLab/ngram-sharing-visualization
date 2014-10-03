@@ -1,0 +1,97 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Carolyn McCarthy", 
+            "id": "693"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Maurice D. Hinchey", 
+            "id": "26989"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Chuck Grassley", 
+            "id": "53293"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Lucille Roybal-Allard", 
+            "id": "26766"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Judy Biggert", 
+            "id": "6298"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Joe Baca", 
+            "id": "8039"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael E. Capuano", 
+            "id": "18883"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Nancy Pelosi", 
+            "id": "26732"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Henry Cuellar", 
+            "id": "5486"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Doris O. Matsui", 
+            "id": "28593"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Steven R. Rothman", 
+            "id": "481"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "18883"
+        }, 
+        {
+            "source": "693", 
+            "target": "8039"
+        }, 
+        {
+            "source": "26989", 
+            "target": "6298"
+        }, 
+        {
+            "source": "53293", 
+            "target": "5486"
+        }, 
+        {
+            "source": "26766", 
+            "target": "28593"
+        }, 
+        {
+            "source": "18883", 
+            "target": "26732"
+        }, 
+        {
+            "source": "5486", 
+            "target": "481"
+        }
+    ], 
+    "multigraph": false
+}

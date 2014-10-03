@@ -1,0 +1,60 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Mark E. Amodei", 
+            "id": "12537"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott DesJarlais", 
+            "id": "123473"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "James P. Moran", 
+            "id": "27118"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Lucille Roybal-Allard", 
+            "id": "26766"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael E. Capuano", 
+            "id": "18883"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John Barrow", 
+            "id": "31780"
+        }
+    ], 
+    "links": [
+        {
+            "source": "12537", 
+            "target": "123473"
+        }, 
+        {
+            "source": "123473", 
+            "target": "31780"
+        }, 
+        {
+            "source": "27118", 
+            "target": "18883"
+        }, 
+        {
+            "source": "26766", 
+            "target": "542"
+        }
+    ], 
+    "multigraph": false
+}

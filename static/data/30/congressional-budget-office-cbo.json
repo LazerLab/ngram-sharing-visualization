@@ -1,0 +1,82 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Flake", 
+            "id": "28128"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Walberg", 
+            "id": "8618"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }
+    ], 
+    "links": [
+        {
+            "source": "542", 
+            "target": "15691"
+        }, 
+        {
+            "source": "50895", 
+            "target": "22175"
+        }, 
+        {
+            "source": "50895", 
+            "target": "28128"
+        }, 
+        {
+            "source": "53352", 
+            "target": "18594"
+        }, 
+        {
+            "source": "22175", 
+            "target": "18594"
+        }, 
+        {
+            "source": "28128", 
+            "target": "8618"
+        }, 
+        {
+            "source": "24559", 
+            "target": "8618"
+        }
+    ], 
+    "multigraph": false
+}

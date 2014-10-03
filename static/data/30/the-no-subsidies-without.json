@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Cynthia M. Lummis", 
+            "id": "15546"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marlin A. Stutzman", 
+            "id": "34230"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert E. Latta", 
+            "id": "9926"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kevin Brady", 
+            "id": "361"
+        }
+    ], 
+    "links": [
+        {
+            "source": "15546", 
+            "target": "361"
+        }, 
+        {
+            "source": "34230", 
+            "target": "9926"
+        }, 
+        {
+            "source": "34230", 
+            "target": "361"
+        }
+    ], 
+    "multigraph": false
+}

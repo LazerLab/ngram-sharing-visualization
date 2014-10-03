@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Diane Black", 
+            "id": "25292"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Darrell E. Issa", 
+            "id": "16553"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26906", 
+            "target": "135705"
+        }, 
+        {
+            "source": "26906", 
+            "target": "25292"
+        }, 
+        {
+            "source": "25292", 
+            "target": "16553"
+        }
+    ], 
+    "multigraph": false
+}

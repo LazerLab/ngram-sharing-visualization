@@ -1,0 +1,133 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Chaka Fattah", 
+            "id": "21850"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Grimm", 
+            "id": "127075"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jeff Merkley", 
+            "id": "23644"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Diane Black", 
+            "id": "25292"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Poe", 
+            "id": "49198"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Cassidy", 
+            "id": "69494"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "23644"
+        }, 
+        {
+            "source": "21850", 
+            "target": "334"
+        }, 
+        {
+            "source": "21850", 
+            "target": "46971"
+        }, 
+        {
+            "source": "27015", 
+            "target": "49198"
+        }, 
+        {
+            "source": "334", 
+            "target": "22175"
+        }, 
+        {
+            "source": "127075", 
+            "target": "69494"
+        }, 
+        {
+            "source": "18829", 
+            "target": "26798"
+        }, 
+        {
+            "source": "18829", 
+            "target": "70001"
+        }, 
+        {
+            "source": "15375", 
+            "target": "25292"
+        }, 
+        {
+            "source": "22175", 
+            "target": "17644"
+        }, 
+        {
+            "source": "26798", 
+            "target": "17644"
+        }
+    ], 
+    "multigraph": false
+}

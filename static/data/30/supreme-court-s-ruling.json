@@ -1,0 +1,95 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert L. Turner", 
+            "id": "127071"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted S. Yoho", 
+            "id": "137622"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }
+    ], 
+    "links": [
+        {
+            "source": "70001", 
+            "target": "22175"
+        }, 
+        {
+            "source": "70001", 
+            "target": "53352"
+        }, 
+        {
+            "source": "53352", 
+            "target": "334"
+        }, 
+        {
+            "source": "334", 
+            "target": "53349"
+        }, 
+        {
+            "source": "127071", 
+            "target": "26798"
+        }, 
+        {
+            "source": "22175", 
+            "target": "65905"
+        }, 
+        {
+            "source": "137622", 
+            "target": "26798"
+        }, 
+        {
+            "source": "137622", 
+            "target": "11812"
+        }, 
+        {
+            "source": "11812", 
+            "target": "65905"
+        }
+    ], 
+    "multigraph": false
+}

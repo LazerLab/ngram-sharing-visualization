@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Lewis", 
+            "id": "26769"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Ryan", 
+            "id": "26344"
+        }
+    ], 
+    "links": [
+        {
+            "source": "334", 
+            "target": "26769"
+        }, 
+        {
+            "source": "46034", 
+            "target": "26769"
+        }, 
+        {
+            "source": "46034", 
+            "target": "26344"
+        }
+    ], 
+    "multigraph": false
+}

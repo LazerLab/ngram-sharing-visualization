@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David Schweikert", 
+            "id": "106387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Ryan", 
+            "id": "26344"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Aaron Schock", 
+            "id": "33428"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mario Diaz-Balart", 
+            "id": "24312"
+        }
+    ], 
+    "links": [
+        {
+            "source": "70001", 
+            "target": "24312"
+        }, 
+        {
+            "source": "70001", 
+            "target": "11812"
+        }, 
+        {
+            "source": "11812", 
+            "target": "26344"
+        }, 
+        {
+            "source": "106387", 
+            "target": "33428"
+        }
+    ], 
+    "multigraph": false
+}

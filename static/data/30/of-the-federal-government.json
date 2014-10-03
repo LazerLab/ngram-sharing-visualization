@@ -1,0 +1,60 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Terri A. Sewell", 
+            "id": "121621"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sheila Jackson Lee", 
+            "id": "21692"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Poe", 
+            "id": "49198"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Trey Gowdy", 
+            "id": "121782"
+        }
+    ], 
+    "links": [
+        {
+            "source": "121621", 
+            "target": "21692"
+        }, 
+        {
+            "source": "53291", 
+            "target": "121782"
+        }, 
+        {
+            "source": "53349", 
+            "target": "46034"
+        }, 
+        {
+            "source": "53349", 
+            "target": "49198"
+        }
+    ], 
+    "multigraph": false
+}

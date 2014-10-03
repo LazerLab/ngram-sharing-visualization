@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Steve King", 
+            "id": "10853"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Burton", 
+            "id": "26855"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Matt Salmon", 
+            "id": "22184"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Lewis", 
+            "id": "26769"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }
+    ], 
+    "links": [
+        {
+            "source": "10853", 
+            "target": "26855"
+        }, 
+        {
+            "source": "22184", 
+            "target": "17644"
+        }, 
+        {
+            "source": "26769", 
+            "target": "17644"
+        }
+    ], 
+    "multigraph": false
+}

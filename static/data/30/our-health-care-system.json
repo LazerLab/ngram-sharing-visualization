@@ -1,0 +1,143 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tom Reed", 
+            "id": "127046"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Spencer Bachus", 
+            "id": "26715"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn A. Westmoreland", 
+            "id": "8001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Gregg Harper", 
+            "id": "101985"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Daniel Lipinski", 
+            "id": "33692"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John D. Rockefeller, IV", 
+            "id": "53360"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Abney Culberson", 
+            "id": "5488"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Benishek", 
+            "id": "123056"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127046", 
+            "target": "8001"
+        }, 
+        {
+            "source": "53294", 
+            "target": "53360"
+        }, 
+        {
+            "source": "26906", 
+            "target": "46034"
+        }, 
+        {
+            "source": "53291", 
+            "target": "18829"
+        }, 
+        {
+            "source": "53291", 
+            "target": "17644"
+        }, 
+        {
+            "source": "53352", 
+            "target": "101985"
+        }, 
+        {
+            "source": "26715", 
+            "target": "33692"
+        }, 
+        {
+            "source": "15375", 
+            "target": "5121"
+        }, 
+        {
+            "source": "542", 
+            "target": "5488"
+        }, 
+        {
+            "source": "46034", 
+            "target": "17644"
+        }, 
+        {
+            "source": "123056", 
+            "target": "17644"
+        }
+    ], 
+    "multigraph": false
+}

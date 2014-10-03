@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Mark E. Amodei", 
+            "id": "12537"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John Barrow", 
+            "id": "31780"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kenny Marchant", 
+            "id": "5549"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Randy Neugebauer", 
+            "id": "49522"
+        }
+    ], 
+    "links": [
+        {
+            "source": "12537", 
+            "target": "5549"
+        }, 
+        {
+            "source": "12537", 
+            "target": "49522"
+        }, 
+        {
+            "source": "31780", 
+            "target": "5549"
+        }, 
+        {
+            "source": "26906", 
+            "target": "49522"
+        }
+    ], 
+    "multigraph": false
+}

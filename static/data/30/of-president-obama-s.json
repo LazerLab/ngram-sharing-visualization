@@ -1,0 +1,164 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Huelskamp", 
+            "id": "12571"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael K. Simpson", 
+            "id": "2917"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Chaka Fattah", 
+            "id": "21850"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Francisco \"Quico\" Canseco", 
+            "id": "50146"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Flake", 
+            "id": "28128"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Martha Roby", 
+            "id": "71604"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rick Berg", 
+            "id": "7693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Walberg", 
+            "id": "8618"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }
+    ], 
+    "links": [
+        {
+            "source": "542", 
+            "target": "20400"
+        }, 
+        {
+            "source": "542", 
+            "target": "8618"
+        }, 
+        {
+            "source": "119213", 
+            "target": "71604"
+        }, 
+        {
+            "source": "12571", 
+            "target": "22175"
+        }, 
+        {
+            "source": "12571", 
+            "target": "53352"
+        }, 
+        {
+            "source": "53291", 
+            "target": "50146"
+        }, 
+        {
+            "source": "2917", 
+            "target": "117396"
+        }, 
+        {
+            "source": "53352", 
+            "target": "17644"
+        }, 
+        {
+            "source": "53352", 
+            "target": "53352"
+        }, 
+        {
+            "source": "53349", 
+            "target": "7693"
+        }, 
+        {
+            "source": "22175", 
+            "target": "28128"
+        }, 
+        {
+            "source": "24046", 
+            "target": "20400"
+        }, 
+        {
+            "source": "21850", 
+            "target": "17644"
+        }, 
+        {
+            "source": "28128", 
+            "target": "8618"
+        }, 
+        {
+            "source": "71604", 
+            "target": "27080"
+        }
+    ], 
+    "multigraph": false
+}

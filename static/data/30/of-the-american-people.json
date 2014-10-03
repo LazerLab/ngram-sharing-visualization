@@ -1,0 +1,234 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Sam Johnson", 
+            "id": "27079"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sue Wilkins Myrick", 
+            "id": "21789"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dennis A. Ross", 
+            "id": "12813"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve King", 
+            "id": "10853"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Louie Gohmert", 
+            "id": "50029"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank C. Guinta", 
+            "id": "42946"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rick Berg", 
+            "id": "7693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jim Webb", 
+            "id": "60043"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ed Whitfield", 
+            "id": "21873"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard C. Shelby", 
+            "id": "53266"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Ryan", 
+            "id": "26344"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Southerland II", 
+            "id": "124329"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John D. Dingell", 
+            "id": "26917"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott R. Tipton", 
+            "id": "65403"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David Schweikert", 
+            "id": "106387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jim Gerlach", 
+            "id": "5226"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Pence", 
+            "id": "34024"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Doug Lamborn", 
+            "id": "2698"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Mark Udall", 
+            "id": "12329"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert E. Latta", 
+            "id": "9926"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27079", 
+            "target": "26917"
+        }, 
+        {
+            "source": "21789", 
+            "target": "124329"
+        }, 
+        {
+            "source": "22175", 
+            "target": "46034"
+        }, 
+        {
+            "source": "12813", 
+            "target": "45466"
+        }, 
+        {
+            "source": "12813", 
+            "target": "65403"
+        }, 
+        {
+            "source": "10853", 
+            "target": "21873"
+        }, 
+        {
+            "source": "542", 
+            "target": "27015"
+        }, 
+        {
+            "source": "542", 
+            "target": "15375"
+        }, 
+        {
+            "source": "288", 
+            "target": "26917"
+        }, 
+        {
+            "source": "50029", 
+            "target": "65403"
+        }, 
+        {
+            "source": "42946", 
+            "target": "27080"
+        }, 
+        {
+            "source": "7693", 
+            "target": "106387"
+        }, 
+        {
+            "source": "127047", 
+            "target": "46034"
+        }, 
+        {
+            "source": "127047", 
+            "target": "26344"
+        }, 
+        {
+            "source": "60043", 
+            "target": "34024"
+        }, 
+        {
+            "source": "21873", 
+            "target": "15375"
+        }, 
+        {
+            "source": "53266", 
+            "target": "34024"
+        }, 
+        {
+            "source": "27015", 
+            "target": "34024"
+        }, 
+        {
+            "source": "5226", 
+            "target": "2698"
+        }, 
+        {
+            "source": "12329", 
+            "target": "9926"
+        }
+    ], 
+    "multigraph": false
+}

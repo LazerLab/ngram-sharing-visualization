@@ -1,0 +1,129 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Ann Emerson", 
+            "id": "903"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Thune", 
+            "id": "398"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jerry McNerney", 
+            "id": "29474"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sue Wilkins Myrick", 
+            "id": "21789"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Adam Kinzinger", 
+            "id": "116559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert B. Aderholt", 
+            "id": "441"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David P. Joyce", 
+            "id": "143052"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Todd Rokita", 
+            "id": "34167"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Roger F. Wicker", 
+            "id": "21926"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Randy Neugebauer", 
+            "id": "49522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Coburn", 
+            "id": "22085"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Albio Sires", 
+            "id": "22510"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Joe Manchin, III", 
+            "id": "7547"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "143052"
+        }, 
+        {
+            "source": "903", 
+            "target": "21789"
+        }, 
+        {
+            "source": "26906", 
+            "target": "21926"
+        }, 
+        {
+            "source": "26906", 
+            "target": "49522"
+        }, 
+        {
+            "source": "398", 
+            "target": "7547"
+        }, 
+        {
+            "source": "29474", 
+            "target": "21789"
+        }, 
+        {
+            "source": "116559", 
+            "target": "34167"
+        }, 
+        {
+            "source": "441", 
+            "target": "22085"
+        }, 
+        {
+            "source": "15375", 
+            "target": "22510"
+        }, 
+        {
+            "source": "21926", 
+            "target": "22510"
+        }
+    ], 
+    "multigraph": false
+}

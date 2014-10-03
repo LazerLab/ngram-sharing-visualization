@@ -1,0 +1,64 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Xavier Becerra", 
+            "id": "26754"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marsha Blackburn", 
+            "id": "25186"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michele Bachmann", 
+            "id": "54675"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Huizenga", 
+            "id": "38351"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael F. Bennet", 
+            "id": "110942"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26754", 
+            "target": "110942"
+        }, 
+        {
+            "source": "25186", 
+            "target": "38351"
+        }, 
+        {
+            "source": "25186", 
+            "target": "54675"
+        }, 
+        {
+            "source": "54675", 
+            "target": "102008"
+        }, 
+        {
+            "source": "38351", 
+            "target": "5121"
+        }
+    ], 
+    "multigraph": false
+}

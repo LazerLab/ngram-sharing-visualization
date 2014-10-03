@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Ron Kind", 
+            "id": "630"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "C. A. Dutch Ruppersberger", 
+            "id": "36130"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Joseph Crowley", 
+            "id": "4295"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard C. Shelby", 
+            "id": "53266"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Duncan", 
+            "id": "47967"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Shimkus", 
+            "id": "246"
+        }
+    ], 
+    "links": [
+        {
+            "source": "630", 
+            "target": "4295"
+        }, 
+        {
+            "source": "36130", 
+            "target": "4295"
+        }, 
+        {
+            "source": "36130", 
+            "target": "53266"
+        }, 
+        {
+            "source": "47967", 
+            "target": "246"
+        }
+    ], 
+    "multigraph": false
+}

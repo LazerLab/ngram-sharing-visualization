@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Rob Portman", 
+            "id": "27008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Luke Messer", 
+            "id": "33997"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn A. Westmoreland", 
+            "id": "8001"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27008", 
+            "target": "24046"
+        }, 
+        {
+            "source": "27015", 
+            "target": "21309"
+        }, 
+        {
+            "source": "33997", 
+            "target": "8001"
+        }
+    ], 
+    "multigraph": false
+}

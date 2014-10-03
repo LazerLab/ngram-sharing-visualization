@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Edward R. Royce", 
+            "id": "26772"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Cathy McMorris Rodgers", 
+            "id": "3217"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank C. Guinta", 
+            "id": "42946"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26772", 
+            "target": "42946"
+        }, 
+        {
+            "source": "3217", 
+            "target": "15691"
+        }, 
+        {
+            "source": "24559", 
+            "target": "18594"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Cynthia M. Lummis", 
+            "id": "15546"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ron DeSantis", 
+            "id": "137630"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Shelley Moore Capito", 
+            "id": "11701"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael T. McCaul", 
+            "id": "49210"
+        }
+    ], 
+    "links": [
+        {
+            "source": "15546", 
+            "target": "137630"
+        }, 
+        {
+            "source": "137630", 
+            "target": "49210"
+        }, 
+        {
+            "source": "11701", 
+            "target": "49210"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Bill Posey", 
+            "id": "24280"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }
+    ], 
+    "links": [
+        {
+            "source": "24280", 
+            "target": "45466"
+        }, 
+        {
+            "source": "24280", 
+            "target": "27116"
+        }, 
+        {
+            "source": "46971", 
+            "target": "27116"
+        }
+    ], 
+    "multigraph": false
+}

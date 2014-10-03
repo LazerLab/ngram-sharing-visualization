@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joe Wilson", 
+            "id": "3985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Patrick Meehan", 
+            "id": "119474"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27015", 
+            "target": "3985"
+        }, 
+        {
+            "source": "3985", 
+            "target": "35514"
+        }, 
+        {
+            "source": "119474", 
+            "target": "35514"
+        }
+    ], 
+    "multigraph": false
+}

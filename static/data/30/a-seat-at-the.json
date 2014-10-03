@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Gregg Harper", 
+            "id": "101985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Pence", 
+            "id": "34024"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Burton", 
+            "id": "26855"
+        }
+    ], 
+    "links": [
+        {
+            "source": "101985", 
+            "target": "20400"
+        }, 
+        {
+            "source": "101985", 
+            "target": "26855"
+        }, 
+        {
+            "source": "20400", 
+            "target": "34024"
+        }
+    ], 
+    "multigraph": false
+}

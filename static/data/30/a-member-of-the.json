@@ -1,0 +1,162 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Howard L. Berman", 
+            "id": "26756"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sherrod Brown", 
+            "id": "27018"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ed Whitfield", 
+            "id": "21873"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pat Roberts", 
+            "id": "26866"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Benjamin L. Cardin", 
+            "id": "26888"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Nita M. Lowey", 
+            "id": "26982"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Johnny Isakson", 
+            "id": "1721"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James B. Renacci", 
+            "id": "120678"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Stephen Lee Fincher", 
+            "id": "124659"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles F. Bass", 
+            "id": "22216"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Leonard Lance", 
+            "id": "4443"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Thomas R. Carper", 
+            "id": "22421"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Maria Cantwell", 
+            "id": "27122"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Amy Klobuchar", 
+            "id": "65092"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kevin Brady", 
+            "id": "361"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119213", 
+            "target": "22216"
+        }, 
+        {
+            "source": "119213", 
+            "target": "26982"
+        }, 
+        {
+            "source": "26756", 
+            "target": "27080"
+        }, 
+        {
+            "source": "27018", 
+            "target": "21873"
+        }, 
+        {
+            "source": "26866", 
+            "target": "22421"
+        }, 
+        {
+            "source": "26866", 
+            "target": "53291"
+        }, 
+        {
+            "source": "15375", 
+            "target": "361"
+        }, 
+        {
+            "source": "26888", 
+            "target": "27122"
+        }, 
+        {
+            "source": "1721", 
+            "target": "4443"
+        }, 
+        {
+            "source": "120678", 
+            "target": "124659"
+        }, 
+        {
+            "source": "120678", 
+            "target": "27958"
+        }, 
+        {
+            "source": "65092", 
+            "target": "46034"
+        }
+    ], 
+    "multigraph": false
+}

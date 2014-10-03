@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael K. Simpson", 
+            "id": "2917"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Francisco \"Quico\" Canseco", 
+            "id": "50146"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Walberg", 
+            "id": "8618"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53291", 
+            "target": "50146"
+        }, 
+        {
+            "source": "2917", 
+            "target": "117396"
+        }, 
+        {
+            "source": "542", 
+            "target": "8618"
+        }
+    ], 
+    "multigraph": false
+}

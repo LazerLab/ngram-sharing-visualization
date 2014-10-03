@@ -1,0 +1,184 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Patty Murray", 
+            "id": "53358"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "W. Todd Akin", 
+            "id": "9301"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kenny Marchant", 
+            "id": "5549"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Sessions", 
+            "id": "443"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Johnson", 
+            "id": "27079"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kristi L. Noem", 
+            "id": "58189"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jo Bonner", 
+            "id": "27522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Huelskamp", 
+            "id": "12571"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mitch McConnell", 
+            "id": "53298"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Cassidy", 
+            "id": "69494"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Virginia Foxx", 
+            "id": "6051"
+        }
+    ], 
+    "links": [
+        {
+            "source": "50895", 
+            "target": "22175"
+        }, 
+        {
+            "source": "50895", 
+            "target": "12571"
+        }, 
+        {
+            "source": "53352", 
+            "target": "12571"
+        }, 
+        {
+            "source": "15375", 
+            "target": "27958"
+        }, 
+        {
+            "source": "15375", 
+            "target": "102008"
+        }, 
+        {
+            "source": "53358", 
+            "target": "6051"
+        }, 
+        {
+            "source": "22175", 
+            "target": "69494"
+        }, 
+        {
+            "source": "9301", 
+            "target": "443"
+        }, 
+        {
+            "source": "5549", 
+            "target": "26906"
+        }, 
+        {
+            "source": "124938", 
+            "target": "27116"
+        }, 
+        {
+            "source": "127047", 
+            "target": "17644"
+        }, 
+        {
+            "source": "27079", 
+            "target": "102008"
+        }, 
+        {
+            "source": "9026", 
+            "target": "27522"
+        }, 
+        {
+            "source": "17644", 
+            "target": "58189"
+        }, 
+        {
+            "source": "58189", 
+            "target": "53298"
+        }
+    ], 
+    "multigraph": false
+}

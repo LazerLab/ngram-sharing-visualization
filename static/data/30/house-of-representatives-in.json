@@ -1,0 +1,65 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jerry Lewis", 
+            "id": "26769"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Pence", 
+            "id": "34024"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sanford D. Bishop Jr.", 
+            "id": "26817"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Albio Sires", 
+            "id": "22510"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26769", 
+            "target": "46034"
+        }, 
+        {
+            "source": "27032", 
+            "target": "27080"
+        }, 
+        {
+            "source": "11812", 
+            "target": "26817"
+        }, 
+        {
+            "source": "34024", 
+            "target": "22510"
+        }
+    ], 
+    "multigraph": false
+}

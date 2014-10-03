@@ -1,0 +1,59 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marsha Blackburn", 
+            "id": "25186"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }
+    ], 
+    "links": [
+        {
+            "source": "45466", 
+            "target": "117396"
+        }, 
+        {
+            "source": "45466", 
+            "target": "102008"
+        }, 
+        {
+            "source": "25186", 
+            "target": "8783"
+        }, 
+        {
+            "source": "25186", 
+            "target": "5121"
+        }, 
+        {
+            "source": "8783", 
+            "target": "117396"
+        }
+    ], 
+    "multigraph": false
+}

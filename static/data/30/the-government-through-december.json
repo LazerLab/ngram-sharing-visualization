@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard Hudson", 
+            "id": "136448"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Hoeven", 
+            "id": "41788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }
+    ], 
+    "links": [
+        {
+            "source": "124938", 
+            "target": "136448"
+        }, 
+        {
+            "source": "124938", 
+            "target": "53352"
+        }, 
+        {
+            "source": "41788", 
+            "target": "53352"
+        }
+    ], 
+    "multigraph": false
+}

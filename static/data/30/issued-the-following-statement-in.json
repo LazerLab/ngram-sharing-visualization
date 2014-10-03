@@ -1,0 +1,120 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jeff Merkley", 
+            "id": "23644"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John D. Rockefeller, IV", 
+            "id": "53360"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Ron Wyden", 
+            "id": "27036"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Benishek", 
+            "id": "123056"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Diane Black", 
+            "id": "25292"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Ryan", 
+            "id": "26344"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Earl Blumenauer", 
+            "id": "367"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dave Camp", 
+            "id": "26911"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Martin Heinrich", 
+            "id": "74517"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Spencer Bachus", 
+            "id": "26715"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "23644"
+        }, 
+        {
+            "source": "27015", 
+            "target": "53360"
+        }, 
+        {
+            "source": "27036", 
+            "target": "74517"
+        }, 
+        {
+            "source": "123056", 
+            "target": "26715"
+        }, 
+        {
+            "source": "22175", 
+            "target": "334"
+        }, 
+        {
+            "source": "22175", 
+            "target": "26344"
+        }, 
+        {
+            "source": "25292", 
+            "target": "15375"
+        }, 
+        {
+            "source": "15375", 
+            "target": "74517"
+        }, 
+        {
+            "source": "367", 
+            "target": "26911"
+        }
+    ], 
+    "multigraph": false
+}

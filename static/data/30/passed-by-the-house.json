@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Rosa L. DeLauro", 
+            "id": "26788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }
+    ], 
+    "links": [
+        {
+            "source": "542", 
+            "target": "22175"
+        }, 
+        {
+            "source": "27116", 
+            "target": "46971"
+        }, 
+        {
+            "source": "53352", 
+            "target": "26788"
+        }, 
+        {
+            "source": "53352", 
+            "target": "46971"
+        }
+    ], 
+    "multigraph": false
+}

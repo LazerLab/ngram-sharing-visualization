@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Matt Salmon", 
+            "id": "22184"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "22184"
+        }, 
+        {
+            "source": "127047", 
+            "target": "65905"
+        }, 
+        {
+            "source": "53291", 
+            "target": "22184"
+        }
+    ], 
+    "multigraph": false
+}

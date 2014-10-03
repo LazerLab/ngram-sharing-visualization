@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Ann Kirkpatrick", 
+            "id": "28425"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Henry Cuellar", 
+            "id": "5486"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Joe Baca", 
+            "id": "8039"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Steven R. Rothman", 
+            "id": "481"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Richard J. Durbin", 
+            "id": "26847"
+        }
+    ], 
+    "links": [
+        {
+            "source": "28425", 
+            "target": "8039"
+        }, 
+        {
+            "source": "28425", 
+            "target": "26847"
+        }, 
+        {
+            "source": "5486", 
+            "target": "481"
+        }, 
+        {
+            "source": "481", 
+            "target": "26847"
+        }
+    ], 
+    "multigraph": false
+}

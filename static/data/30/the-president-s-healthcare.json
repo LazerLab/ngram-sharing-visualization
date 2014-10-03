@@ -1,0 +1,125 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kenny Marchant", 
+            "id": "5549"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Sessions", 
+            "id": "443"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Peter J. Roskam", 
+            "id": "6382"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cotton", 
+            "id": "135651"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "W. Todd Akin", 
+            "id": "9301"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul A. Gosar", 
+            "id": "123491"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael T. McCaul", 
+            "id": "49210"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mario Diaz-Balart", 
+            "id": "24312"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Shelley Moore Capito", 
+            "id": "11701"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "24312"
+        }, 
+        {
+            "source": "127047", 
+            "target": "35514"
+        }, 
+        {
+            "source": "45466", 
+            "target": "6382"
+        }, 
+        {
+            "source": "5549", 
+            "target": "135651"
+        }, 
+        {
+            "source": "102008", 
+            "target": "49210"
+        }, 
+        {
+            "source": "443", 
+            "target": "9301"
+        }, 
+        {
+            "source": "124938", 
+            "target": "123491"
+        }, 
+        {
+            "source": "124938", 
+            "target": "11701"
+        }, 
+        {
+            "source": "46971", 
+            "target": "18594"
+        }
+    ], 
+    "multigraph": false
+}

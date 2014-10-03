@@ -1,0 +1,64 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "David Schweikert", 
+            "id": "106387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Flake", 
+            "id": "28128"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rick Berg", 
+            "id": "7693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Walberg", 
+            "id": "8618"
+        }
+    ], 
+    "links": [
+        {
+            "source": "106387", 
+            "target": "7693"
+        }, 
+        {
+            "source": "106387", 
+            "target": "53349"
+        }, 
+        {
+            "source": "542", 
+            "target": "24559"
+        }, 
+        {
+            "source": "28128", 
+            "target": "8618"
+        }, 
+        {
+            "source": "24559", 
+            "target": "8618"
+        }
+    ], 
+    "multigraph": false
+}

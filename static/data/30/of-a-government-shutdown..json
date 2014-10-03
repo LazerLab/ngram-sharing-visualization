@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David P. Joyce", 
+            "id": "143052"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Hoeven", 
+            "id": "41788"
+        }
+    ], 
+    "links": [
+        {
+            "source": "288", 
+            "target": "120649"
+        }, 
+        {
+            "source": "288", 
+            "target": "41788"
+        }, 
+        {
+            "source": "120649", 
+            "target": "143052"
+        }
+    ], 
+    "multigraph": false
+}

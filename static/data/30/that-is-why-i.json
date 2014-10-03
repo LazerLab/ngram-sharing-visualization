@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Cory Gardner", 
+            "id": "30004"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ed Whitfield", 
+            "id": "21873"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard C. Shelby", 
+            "id": "53266"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Joe Manchin, III", 
+            "id": "7547"
+        }
+    ], 
+    "links": [
+        {
+            "source": "30004", 
+            "target": "7547"
+        }, 
+        {
+            "source": "21873", 
+            "target": "18594"
+        }, 
+        {
+            "source": "27958", 
+            "target": "53266"
+        }
+    ], 
+    "multigraph": false
+}

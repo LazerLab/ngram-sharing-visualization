@@ -1,0 +1,83 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Kristi L. Noem", 
+            "id": "58189"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Sessions", 
+            "id": "443"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Huelskamp", 
+            "id": "12571"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mitch McConnell", 
+            "id": "53298"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Cassidy", 
+            "id": "69494"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Johnson", 
+            "id": "27079"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "W. Todd Akin", 
+            "id": "9301"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }
+    ], 
+    "links": [
+        {
+            "source": "58189", 
+            "target": "17644"
+        }, 
+        {
+            "source": "50895", 
+            "target": "12571"
+        }, 
+        {
+            "source": "50895", 
+            "target": "69494"
+        }, 
+        {
+            "source": "443", 
+            "target": "9301"
+        }, 
+        {
+            "source": "27958", 
+            "target": "27079"
+        }, 
+        {
+            "source": "53298", 
+            "target": "17644"
+        }
+    ], 
+    "multigraph": false
+}

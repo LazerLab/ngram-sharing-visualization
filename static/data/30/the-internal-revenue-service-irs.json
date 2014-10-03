@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Cheri Bustos", 
+            "id": "134964"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Alexander", 
+            "id": "4545"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }
+    ], 
+    "links": [
+        {
+            "source": "134964", 
+            "target": "4545"
+        }, 
+        {
+            "source": "21785", 
+            "target": "102008"
+        }, 
+        {
+            "source": "27080", 
+            "target": "102008"
+        }
+    ], 
+    "multigraph": false
+}

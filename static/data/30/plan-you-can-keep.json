@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ron DeSantis", 
+            "id": "137630"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Billy Long", 
+            "id": "123401"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Randy Neugebauer", 
+            "id": "49522"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }
+    ], 
+    "links": [
+        {
+            "source": "137630", 
+            "target": "49522"
+        }, 
+        {
+            "source": "123401", 
+            "target": "46034"
+        }, 
+        {
+            "source": "123401", 
+            "target": "49522"
+        }, 
+        {
+            "source": "135705", 
+            "target": "46034"
+        }
+    ], 
+    "multigraph": false
+}

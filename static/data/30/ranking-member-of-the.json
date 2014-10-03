@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Eleanor Holmes Norton", 
+            "id": "775"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael H. Michaud", 
+            "id": "6582"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard C. Shelby", 
+            "id": "53266"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }
+    ], 
+    "links": [
+        {
+            "source": "775", 
+            "target": "53352"
+        }, 
+        {
+            "source": "6582", 
+            "target": "53352"
+        }, 
+        {
+            "source": "53266", 
+            "target": "53352"
+        }, 
+        {
+            "source": "15691", 
+            "target": "15691"
+        }
+    ], 
+    "multigraph": false
+}

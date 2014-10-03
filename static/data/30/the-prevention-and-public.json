@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Janice D. Schakowsky", 
+            "id": "6387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Murphy", 
+            "id": "9794"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Joe Baca", 
+            "id": "8039"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Judy Biggert", 
+            "id": "6298"
+        }
+    ], 
+    "links": [
+        {
+            "source": "6387", 
+            "target": "8039"
+        }, 
+        {
+            "source": "6387", 
+            "target": "9794"
+        }, 
+        {
+            "source": "8039", 
+            "target": "6298"
+        }
+    ], 
+    "multigraph": false
+}

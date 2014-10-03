@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26798", 
+            "target": "65905"
+        }, 
+        {
+            "source": "26798", 
+            "target": "11812"
+        }, 
+        {
+            "source": "65905", 
+            "target": "53349"
+        }
+    ], 
+    "multigraph": false
+}

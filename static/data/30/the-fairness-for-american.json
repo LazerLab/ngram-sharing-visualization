@@ -1,0 +1,77 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael E. Capuano", 
+            "id": "18883"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Greg Walden", 
+            "id": "2979"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joe Wilson", 
+            "id": "3985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }
+    ], 
+    "links": [
+        {
+            "source": "119213", 
+            "target": "3985"
+        }, 
+        {
+            "source": "119213", 
+            "target": "9425"
+        }, 
+        {
+            "source": "18883", 
+            "target": "3985"
+        }, 
+        {
+            "source": "18883", 
+            "target": "2979"
+        }, 
+        {
+            "source": "27097", 
+            "target": "18829"
+        }, 
+        {
+            "source": "2979", 
+            "target": "24302"
+        }, 
+        {
+            "source": "18829", 
+            "target": "9425"
+        }
+    ], 
+    "multigraph": false
+}

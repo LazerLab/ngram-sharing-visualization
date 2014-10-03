@@ -1,0 +1,137 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Kristi L. Noem", 
+            "id": "58189"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Elton Gallegly", 
+            "id": "26750"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Portman", 
+            "id": "27008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael K. Simpson", 
+            "id": "2917"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert L. Turner", 
+            "id": "127071"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Francisco \"Quico\" Canseco", 
+            "id": "50146"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rick Berg", 
+            "id": "7693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Walberg", 
+            "id": "8618"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }
+    ], 
+    "links": [
+        {
+            "source": "58189", 
+            "target": "17644"
+        }, 
+        {
+            "source": "542", 
+            "target": "542"
+        }, 
+        {
+            "source": "542", 
+            "target": "8618"
+        }, 
+        {
+            "source": "26750", 
+            "target": "65905"
+        }, 
+        {
+            "source": "26750", 
+            "target": "17644"
+        }, 
+        {
+            "source": "53291", 
+            "target": "50146"
+        }, 
+        {
+            "source": "27008", 
+            "target": "117396"
+        }, 
+        {
+            "source": "27008", 
+            "target": "127071"
+        }, 
+        {
+            "source": "2917", 
+            "target": "117396"
+        }, 
+        {
+            "source": "53349", 
+            "target": "7693"
+        }, 
+        {
+            "source": "22175", 
+            "target": "8618"
+        }, 
+        {
+            "source": "11812", 
+            "target": "65905"
+        }
+    ], 
+    "multigraph": false
+}

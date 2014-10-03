@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Paul A. Gosar", 
+            "id": "123491"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Graves", 
+            "id": "31969"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard Hudson", 
+            "id": "136448"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }
+    ], 
+    "links": [
+        {
+            "source": "123491", 
+            "target": "31969"
+        }, 
+        {
+            "source": "123491", 
+            "target": "136448"
+        }, 
+        {
+            "source": "136448", 
+            "target": "20400"
+        }
+    ], 
+    "multigraph": false
+}

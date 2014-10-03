@@ -1,0 +1,138 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Louise McIntosh Slaughter", 
+            "id": "26991"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Joseph Crowley", 
+            "id": "4295"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Jeff Merkley", 
+            "id": "23644"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Todd Rokita", 
+            "id": "34167"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard C. Shelby", 
+            "id": "53266"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Daines", 
+            "id": "135720"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Leonard Lance", 
+            "id": "4443"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Diane Black", 
+            "id": "25292"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michelle Lujan Grisham", 
+            "id": "102404"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mario Diaz-Balart", 
+            "id": "24312"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "135720"
+        }, 
+        {
+            "source": "53294", 
+            "target": "23644"
+        }, 
+        {
+            "source": "26991", 
+            "target": "4443"
+        }, 
+        {
+            "source": "70001", 
+            "target": "18829"
+        }, 
+        {
+            "source": "4295", 
+            "target": "53266"
+        }, 
+        {
+            "source": "334", 
+            "target": "22175"
+        }, 
+        {
+            "source": "18829", 
+            "target": "26798"
+        }, 
+        {
+            "source": "15375", 
+            "target": "25292"
+        }, 
+        {
+            "source": "34167", 
+            "target": "25292"
+        }, 
+        {
+            "source": "22175", 
+            "target": "26798"
+        }, 
+        {
+            "source": "102404", 
+            "target": "24312"
+        }
+    ], 
+    "multigraph": false
+}

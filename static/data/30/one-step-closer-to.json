@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Maria Cantwell", 
+            "id": "27122"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Rick Larsen", 
+            "id": "56231"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Walberg", 
+            "id": "8618"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Southerland II", 
+            "id": "124329"
+        }
+    ], 
+    "links": [
+        {
+            "source": "20400", 
+            "target": "8618"
+        }, 
+        {
+            "source": "20400", 
+            "target": "124329"
+        }, 
+        {
+            "source": "27122", 
+            "target": "56231"
+        }
+    ], 
+    "multigraph": false
+}

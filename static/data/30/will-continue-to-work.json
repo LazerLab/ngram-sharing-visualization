@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mario Diaz-Balart", 
+            "id": "24312"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Elton Gallegly", 
+            "id": "26750"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "70001"
+        }, 
+        {
+            "source": "70001", 
+            "target": "26750"
+        }, 
+        {
+            "source": "24312", 
+            "target": "26750"
+        }
+    ], 
+    "multigraph": false
+}

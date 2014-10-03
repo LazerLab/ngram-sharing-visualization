@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sam Farr", 
+            "id": "26745"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Shuster", 
+            "id": "55693"
+        }
+    ], 
+    "links": [
+        {
+            "source": "288", 
+            "target": "26745"
+        }, 
+        {
+            "source": "45466", 
+            "target": "117396"
+        }, 
+        {
+            "source": "26745", 
+            "target": "55693"
+        }, 
+        {
+            "source": "117396", 
+            "target": "55693"
+        }
+    ], 
+    "multigraph": false
+}

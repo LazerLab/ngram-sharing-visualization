@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mario Diaz-Balart", 
+            "id": "24312"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Ryan", 
+            "id": "26344"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted S. Yoho", 
+            "id": "137622"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "137622"
+        }, 
+        {
+            "source": "127047", 
+            "target": "26344"
+        }, 
+        {
+            "source": "24312", 
+            "target": "137622"
+        }
+    ], 
+    "multigraph": false
+}

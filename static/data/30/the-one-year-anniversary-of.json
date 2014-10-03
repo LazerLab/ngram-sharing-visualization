@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "David Schweikert", 
+            "id": "106387"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rick Berg", 
+            "id": "7693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Burton", 
+            "id": "26855"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Adrian Smith", 
+            "id": "21284"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }
+    ], 
+    "links": [
+        {
+            "source": "106387", 
+            "target": "21284"
+        }, 
+        {
+            "source": "106387", 
+            "target": "7693"
+        }, 
+        {
+            "source": "26855", 
+            "target": "21284"
+        }, 
+        {
+            "source": "26855", 
+            "target": "53349"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Chaka Fattah", 
+            "id": "21850"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles W. Boustany Jr.", 
+            "id": "35514"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "21850"
+        }, 
+        {
+            "source": "21850", 
+            "target": "35514"
+        }, 
+        {
+            "source": "70001", 
+            "target": "35514"
+        }
+    ], 
+    "multigraph": false
+}

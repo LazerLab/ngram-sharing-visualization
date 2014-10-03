@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Marco Rubio", 
+            "id": "1601"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dean Heller", 
+            "id": "2291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }
+    ], 
+    "links": [
+        {
+            "source": "1601", 
+            "target": "2291"
+        }, 
+        {
+            "source": "27015", 
+            "target": "9425"
+        }, 
+        {
+            "source": "2291", 
+            "target": "9425"
+        }
+    ], 
+    "multigraph": false
+}

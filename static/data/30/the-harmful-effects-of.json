@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ron DeSantis", 
+            "id": "137630"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Graves", 
+            "id": "31969"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ron Johnson", 
+            "id": "126217"
+        }
+    ], 
+    "links": [
+        {
+            "source": "137630", 
+            "target": "124938"
+        }, 
+        {
+            "source": "137630", 
+            "target": "126217"
+        }, 
+        {
+            "source": "31969", 
+            "target": "126217"
+        }
+    ], 
+    "multigraph": false
+}

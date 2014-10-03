@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Graves", 
+            "id": "9425"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Flake", 
+            "id": "28128"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }
+    ], 
+    "links": [
+        {
+            "source": "24559", 
+            "target": "9425"
+        }, 
+        {
+            "source": "24559", 
+            "target": "28128"
+        }, 
+        {
+            "source": "9425", 
+            "target": "542"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott Garrett", 
+            "id": "4430"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }
+    ], 
+    "links": [
+        {
+            "source": "15691", 
+            "target": "53291"
+        }, 
+        {
+            "source": "4430", 
+            "target": "27080"
+        }, 
+        {
+            "source": "27080", 
+            "target": "53291"
+        }
+    ], 
+    "multigraph": false
+}

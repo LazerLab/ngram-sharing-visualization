@@ -1,0 +1,133 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Billy Long", 
+            "id": "123401"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael B. Enzi", 
+            "id": "558"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "F. James Sensenbrenner Jr.", 
+            "id": "27142"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marco Rubio", 
+            "id": "1601"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mitch McConnell", 
+            "id": "53298"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Kurt Schrader", 
+            "id": "10813"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Roger F. Wicker", 
+            "id": "21926"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Daines", 
+            "id": "135720"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Lewis", 
+            "id": "26769"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard Hudson", 
+            "id": "136448"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert T. Schilling", 
+            "id": "116570"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }
+    ], 
+    "links": [
+        {
+            "source": "123401", 
+            "target": "10813"
+        }, 
+        {
+            "source": "558", 
+            "target": "21926"
+        }, 
+        {
+            "source": "27142", 
+            "target": "18829"
+        }, 
+        {
+            "source": "1601", 
+            "target": "15691"
+        }, 
+        {
+            "source": "1601", 
+            "target": "116570"
+        }, 
+        {
+            "source": "334", 
+            "target": "53291"
+        }, 
+        {
+            "source": "53298", 
+            "target": "65905"
+        }, 
+        {
+            "source": "53298", 
+            "target": "26769"
+        }, 
+        {
+            "source": "135720", 
+            "target": "136448"
+        }, 
+        {
+            "source": "18829", 
+            "target": "26769"
+        }, 
+        {
+            "source": "65905", 
+            "target": "53291"
+        }
+    ], 
+    "multigraph": false
+}

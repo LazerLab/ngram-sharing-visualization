@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "James B. Renacci", 
+            "id": "120678"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Cynthia M. Lummis", 
+            "id": "15546"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Peter J. Roskam", 
+            "id": "6382"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael T. McCaul", 
+            "id": "49210"
+        }
+    ], 
+    "links": [
+        {
+            "source": "120678", 
+            "target": "15546"
+        }, 
+        {
+            "source": "15546", 
+            "target": "49210"
+        }, 
+        {
+            "source": "102008", 
+            "target": "6382"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,169 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marsha Blackburn", 
+            "id": "25186"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott DesJarlais", 
+            "id": "123473"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Bishop", 
+            "id": "50544"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jim Jordan", 
+            "id": "8158"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David G. Reichert", 
+            "id": "51346"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Billy Long", 
+            "id": "123401"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Pence", 
+            "id": "34024"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted S. Yoho", 
+            "id": "137622"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }
+    ], 
+    "links": [
+        {
+            "source": "50895", 
+            "target": "24559"
+        }, 
+        {
+            "source": "25186", 
+            "target": "119478"
+        }, 
+        {
+            "source": "25186", 
+            "target": "117396"
+        }, 
+        {
+            "source": "123473", 
+            "target": "123401"
+        }, 
+        {
+            "source": "50544", 
+            "target": "21785"
+        }, 
+        {
+            "source": "50544", 
+            "target": "8158"
+        }, 
+        {
+            "source": "27032", 
+            "target": "51346"
+        }, 
+        {
+            "source": "21785", 
+            "target": "15375"
+        }, 
+        {
+            "source": "15375", 
+            "target": "15375"
+        }, 
+        {
+            "source": "26906", 
+            "target": "123401"
+        }, 
+        {
+            "source": "26906", 
+            "target": "137622"
+        }, 
+        {
+            "source": "53349", 
+            "target": "34024"
+        }, 
+        {
+            "source": "45466", 
+            "target": "44082"
+        }, 
+        {
+            "source": "44082", 
+            "target": "117396"
+        }, 
+        {
+            "source": "24559", 
+            "target": "46034"
+        }
+    ], 
+    "multigraph": false
+}

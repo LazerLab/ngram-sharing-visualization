@@ -1,0 +1,64 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mark Sanford", 
+            "id": "21991"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael T. McCaul", 
+            "id": "49210"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ron DeSantis", 
+            "id": "137630"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Cynthia M. Lummis", 
+            "id": "15546"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Davis", 
+            "id": "9622"
+        }
+    ], 
+    "links": [
+        {
+            "source": "45466", 
+            "target": "9622"
+        }, 
+        {
+            "source": "21991", 
+            "target": "9622"
+        }, 
+        {
+            "source": "49210", 
+            "target": "135705"
+        }, 
+        {
+            "source": "137630", 
+            "target": "15546"
+        }, 
+        {
+            "source": "137630", 
+            "target": "135705"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Elijah E. Cummings", 
+            "id": "345"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "James A. Himes", 
+            "id": "106744"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "John F. Tierney", 
+            "id": "553"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Mike Ross", 
+            "id": "24571"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marlin A. Stutzman", 
+            "id": "34230"
+        }
+    ], 
+    "links": [
+        {
+            "source": "345", 
+            "target": "106744"
+        }, 
+        {
+            "source": "345", 
+            "target": "24571"
+        }, 
+        {
+            "source": "553", 
+            "target": "34230"
+        }
+    ], 
+    "multigraph": false
+}

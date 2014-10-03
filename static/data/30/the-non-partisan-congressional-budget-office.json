@@ -1,0 +1,60 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert J. Dold", 
+            "id": "116548"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John R. Carter", 
+            "id": "49296"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Doc Hastings", 
+            "id": "22318"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dave Camp", 
+            "id": "26911"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27015", 
+            "target": "26911"
+        }, 
+        {
+            "source": "116548", 
+            "target": "49296"
+        }, 
+        {
+            "source": "22175", 
+            "target": "22318"
+        }, 
+        {
+            "source": "22318", 
+            "target": "18594"
+        }
+    ], 
+    "multigraph": false
+}

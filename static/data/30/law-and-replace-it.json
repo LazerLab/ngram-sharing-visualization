@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Marco Rubio", 
+            "id": "1601"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kristi L. Noem", 
+            "id": "58189"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "F. James Sensenbrenner Jr.", 
+            "id": "27142"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Edward R. Royce", 
+            "id": "26772"
+        }
+    ], 
+    "links": [
+        {
+            "source": "1601", 
+            "target": "15691"
+        }, 
+        {
+            "source": "58189", 
+            "target": "26772"
+        }, 
+        {
+            "source": "27142", 
+            "target": "26772"
+        }
+    ], 
+    "multigraph": false
+}

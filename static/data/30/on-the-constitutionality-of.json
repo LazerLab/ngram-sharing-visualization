@@ -1,0 +1,64 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Sander M. Levin", 
+            "id": "26918"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joe Wilson", 
+            "id": "3985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26918", 
+            "target": "20400"
+        }, 
+        {
+            "source": "26798", 
+            "target": "46034"
+        }, 
+        {
+            "source": "542", 
+            "target": "24046"
+        }, 
+        {
+            "source": "542", 
+            "target": "20400"
+        }, 
+        {
+            "source": "3985", 
+            "target": "46034"
+        }
+    ], 
+    "multigraph": false
+}

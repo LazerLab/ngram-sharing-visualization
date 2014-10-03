@@ -1,0 +1,82 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Kristi L. Noem", 
+            "id": "58189"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Steny H. Hoyer", 
+            "id": "26890"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Anna G. Eshoo", 
+            "id": "26741"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Shuster", 
+            "id": "55693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Ryan", 
+            "id": "26344"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }
+    ], 
+    "links": [
+        {
+            "source": "58189", 
+            "target": "26798"
+        }, 
+        {
+            "source": "58189", 
+            "target": "26741"
+        }, 
+        {
+            "source": "45466", 
+            "target": "55693"
+        }, 
+        {
+            "source": "45466", 
+            "target": "26890"
+        }, 
+        {
+            "source": "26741", 
+            "target": "26344"
+        }, 
+        {
+            "source": "27015", 
+            "target": "119478"
+        }, 
+        {
+            "source": "27015", 
+            "target": "55693"
+        }
+    ], 
+    "multigraph": false
+}

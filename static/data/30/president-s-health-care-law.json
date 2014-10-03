@@ -1,0 +1,283 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Scott DesJarlais", 
+            "id": "123473"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Daines", 
+            "id": "135720"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Boozman", 
+            "id": "27958"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Peter J. Roskam", 
+            "id": "6382"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "W. Todd Akin", 
+            "id": "9301"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Portman", 
+            "id": "27008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kelly Ayotte", 
+            "id": "42352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Benishek", 
+            "id": "123056"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James B. Renacci", 
+            "id": "120678"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "F. James Sensenbrenner Jr.", 
+            "id": "27142"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Gregg Harper", 
+            "id": "101985"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Huizenga", 
+            "id": "38351"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Corker", 
+            "id": "65905"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Sessions", 
+            "id": "443"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Cynthia M. Lummis", 
+            "id": "15546"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kristi L. Noem", 
+            "id": "58189"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Coats", 
+            "id": "53291"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Huelskamp", 
+            "id": "12571"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mitch McConnell", 
+            "id": "53298"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Cassidy", 
+            "id": "69494"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Martha Roby", 
+            "id": "71604"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Virginia Foxx", 
+            "id": "6051"
+        }
+    ], 
+    "links": [
+        {
+            "source": "50895", 
+            "target": "22175"
+        }, 
+        {
+            "source": "50895", 
+            "target": "12571"
+        }, 
+        {
+            "source": "50895", 
+            "target": "71604"
+        }, 
+        {
+            "source": "123473", 
+            "target": "6382"
+        }, 
+        {
+            "source": "119213", 
+            "target": "71604"
+        }, 
+        {
+            "source": "135720", 
+            "target": "38351"
+        }, 
+        {
+            "source": "135720", 
+            "target": "27116"
+        }, 
+        {
+            "source": "15375", 
+            "target": "120678"
+        }, 
+        {
+            "source": "15375", 
+            "target": "27958"
+        }, 
+        {
+            "source": "22175", 
+            "target": "69494"
+        }, 
+        {
+            "source": "9301", 
+            "target": "443"
+        }, 
+        {
+            "source": "18594", 
+            "target": "9026"
+        }, 
+        {
+            "source": "18594", 
+            "target": "12571"
+        }, 
+        {
+            "source": "27008", 
+            "target": "6051"
+        }, 
+        {
+            "source": "102008", 
+            "target": "120678"
+        }, 
+        {
+            "source": "102008", 
+            "target": "42352"
+        }, 
+        {
+            "source": "123056", 
+            "target": "27142"
+        }, 
+        {
+            "source": "27142", 
+            "target": "65905"
+        }, 
+        {
+            "source": "101985", 
+            "target": "27032"
+        }, 
+        {
+            "source": "38351", 
+            "target": "27015"
+        }, 
+        {
+            "source": "65905", 
+            "target": "53291"
+        }, 
+        {
+            "source": "127047", 
+            "target": "69494"
+        }, 
+        {
+            "source": "15546", 
+            "target": "53291"
+        }, 
+        {
+            "source": "58189", 
+            "target": "53298"
+        }, 
+        {
+            "source": "53291", 
+            "target": "18829"
+        }, 
+        {
+            "source": "53298", 
+            "target": "18829"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,184 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Patty Murray", 
+            "id": "53358"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Elizabeth Warren", 
+            "id": "141272"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Peter J. Roskam", 
+            "id": "6382"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Cheri Bustos", 
+            "id": "134964"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mario Diaz-Balart", 
+            "id": "24312"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Trey Gowdy", 
+            "id": "121782"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Lucille Roybal-Allard", 
+            "id": "26766"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank C. Guinta", 
+            "id": "42946"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joe Barton", 
+            "id": "27082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Huizenga", 
+            "id": "38351"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Shelley Moore Capito", 
+            "id": "11701"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Mark Begich", 
+            "id": "79426"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Fleming", 
+            "id": "108811"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Scalise", 
+            "id": "9026"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Steny H. Hoyer", 
+            "id": "26890"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Doc Hastings", 
+            "id": "22318"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53358", 
+            "target": "120649"
+        }, 
+        {
+            "source": "53358", 
+            "target": "108811"
+        }, 
+        {
+            "source": "141272", 
+            "target": "26766"
+        }, 
+        {
+            "source": "141272", 
+            "target": "9026"
+        }, 
+        {
+            "source": "6382", 
+            "target": "22318"
+        }, 
+        {
+            "source": "134964", 
+            "target": "46034"
+        }, 
+        {
+            "source": "24312", 
+            "target": "79426"
+        }, 
+        {
+            "source": "121782", 
+            "target": "46034"
+        }, 
+        {
+            "source": "26766", 
+            "target": "27015"
+        }, 
+        {
+            "source": "42946", 
+            "target": "11701"
+        }, 
+        {
+            "source": "27082", 
+            "target": "27116"
+        }, 
+        {
+            "source": "38351", 
+            "target": "5121"
+        }, 
+        {
+            "source": "38351", 
+            "target": "26890"
+        }, 
+        {
+            "source": "46971", 
+            "target": "27015"
+        }, 
+        {
+            "source": "21309", 
+            "target": "9026"
+        }
+    ], 
+    "multigraph": false
+}

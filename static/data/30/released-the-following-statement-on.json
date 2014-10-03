@@ -1,0 +1,92 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "James P. Moran", 
+            "id": "27118"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Darrell E. Issa", 
+            "id": "16553"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Duncan", 
+            "id": "47967"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Rosa L. DeLauro", 
+            "id": "26788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Bill Foster", 
+            "id": "101632"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jack Kingston", 
+            "id": "26816"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Kay R. Hagan", 
+            "id": "21082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John L. Mica", 
+            "id": "26805"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Davis", 
+            "id": "9622"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Andy Harris", 
+            "id": "19157"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27118", 
+            "target": "9622"
+        }, 
+        {
+            "source": "16553", 
+            "target": "21082"
+        }, 
+        {
+            "source": "47967", 
+            "target": "26788"
+        }, 
+        {
+            "source": "15691", 
+            "target": "26805"
+        }, 
+        {
+            "source": "15691", 
+            "target": "15691"
+        }, 
+        {
+            "source": "101632", 
+            "target": "26816"
+        }, 
+        {
+            "source": "26816", 
+            "target": "19157"
+        }
+    ], 
+    "multigraph": false
+}

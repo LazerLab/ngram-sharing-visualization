@@ -1,0 +1,36 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Roger F. Wicker", 
+            "id": "21926"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Barbara Lee", 
+            "id": "8315"
+        }
+    ], 
+    "links": [
+        {
+            "source": "21926", 
+            "target": "15375"
+        }, 
+        {
+            "source": "15375", 
+            "target": "15375"
+        }, 
+        {
+            "source": "15375", 
+            "target": "8315"
+        }
+    ], 
+    "multigraph": false
+}

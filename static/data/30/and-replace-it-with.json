@@ -1,0 +1,147 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Kristi L. Noem", 
+            "id": "58189"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Edward R. Royce", 
+            "id": "26772"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert Hurt", 
+            "id": "50895"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael C. Burgess", 
+            "id": "50120"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Geoff Davis", 
+            "id": "35212"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Bailey Hutchison", 
+            "id": "53349"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marco Rubio", 
+            "id": "1601"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Smith", 
+            "id": "27097"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Abney Culberson", 
+            "id": "5488"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Sullivan", 
+            "id": "24559"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "F. James Sensenbrenner Jr.", 
+            "id": "27142"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dave Camp", 
+            "id": "26911"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Dan Burton", 
+            "id": "26855"
+        }
+    ], 
+    "links": [
+        {
+            "source": "58189", 
+            "target": "27142"
+        }, 
+        {
+            "source": "26772", 
+            "target": "27142"
+        }, 
+        {
+            "source": "50895", 
+            "target": "22175"
+        }, 
+        {
+            "source": "50895", 
+            "target": "27080"
+        }, 
+        {
+            "source": "50120", 
+            "target": "1601"
+        }, 
+        {
+            "source": "50120", 
+            "target": "15691"
+        }, 
+        {
+            "source": "27015", 
+            "target": "35212"
+        }, 
+        {
+            "source": "15375", 
+            "target": "26911"
+        }, 
+        {
+            "source": "53349", 
+            "target": "26855"
+        }, 
+        {
+            "source": "22175", 
+            "target": "24559"
+        }, 
+        {
+            "source": "27097", 
+            "target": "27080"
+        }, 
+        {
+            "source": "5488", 
+            "target": "24559"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,46 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Bishop", 
+            "id": "50544"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }
+    ], 
+    "links": [
+        {
+            "source": "21785", 
+            "target": "15375"
+        }, 
+        {
+            "source": "21785", 
+            "target": "50544"
+        }, 
+        {
+            "source": "117396", 
+            "target": "119478"
+        }
+    ], 
+    "multigraph": false
+}

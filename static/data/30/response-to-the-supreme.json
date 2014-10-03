@@ -1,0 +1,68 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Paul C. Broun", 
+            "id": "70001"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kay Granger", 
+            "id": "334"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Chaka Fattah", 
+            "id": "21850"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Phil Gingrey", 
+            "id": "17644"
+        }
+    ], 
+    "links": [
+        {
+            "source": "70001", 
+            "target": "22175"
+        }, 
+        {
+            "source": "70001", 
+            "target": "334"
+        }, 
+        {
+            "source": "22175", 
+            "target": "46971"
+        }, 
+        {
+            "source": "46971", 
+            "target": "17644"
+        }, 
+        {
+            "source": "21850", 
+            "target": "26798"
+        }, 
+        {
+            "source": "26798", 
+            "target": "17644"
+        }
+    ], 
+    "multigraph": false
+}

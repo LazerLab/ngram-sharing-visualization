@@ -1,0 +1,32 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Dennis Cardoza", 
+            "id": "9680"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Murphy", 
+            "id": "9794"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Gene Green", 
+            "id": "27100"
+        }
+    ], 
+    "links": [
+        {
+            "source": "9680", 
+            "target": "27100"
+        }, 
+        {
+            "source": "9794", 
+            "target": "27100"
+        }
+    ], 
+    "multigraph": false
+}

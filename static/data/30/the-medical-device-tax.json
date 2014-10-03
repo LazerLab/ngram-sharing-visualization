@@ -1,0 +1,83 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Howard P. \"Buck\" McKeon", 
+            "id": "26755"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marco Rubio", 
+            "id": "1601"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mitch McConnell", 
+            "id": "53298"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "F. James Sensenbrenner Jr.", 
+            "id": "27142"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joseph J. Heck", 
+            "id": "44082"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mike Johanns", 
+            "id": "21309"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Eric Cantor", 
+            "id": "5121"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26755", 
+            "target": "27142"
+        }, 
+        {
+            "source": "26906", 
+            "target": "21309"
+        }, 
+        {
+            "source": "53352", 
+            "target": "15375"
+        }, 
+        {
+            "source": "1601", 
+            "target": "53298"
+        }, 
+        {
+            "source": "15375", 
+            "target": "5121"
+        }, 
+        {
+            "source": "44082", 
+            "target": "5121"
+        }
+    ], 
+    "multigraph": false
+}

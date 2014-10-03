@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Hoeven", 
+            "id": "41788"
+        }
+    ], 
+    "links": [
+        {
+            "source": "288", 
+            "target": "46971"
+        }, 
+        {
+            "source": "288", 
+            "target": "120649"
+        }, 
+        {
+            "source": "46971", 
+            "target": "41788"
+        }
+    ], 
+    "multigraph": false
+}

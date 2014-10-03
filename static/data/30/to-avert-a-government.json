@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Shuster", 
+            "id": "55693"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "120649"
+        }, 
+        {
+            "source": "27116", 
+            "target": "8783"
+        }, 
+        {
+            "source": "27116", 
+            "target": "55693"
+        }, 
+        {
+            "source": "542", 
+            "target": "55693"
+        }
+    ], 
+    "multigraph": false
+}

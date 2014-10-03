@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }
+    ], 
+    "links": [
+        {
+            "source": "288", 
+            "target": "102008"
+        }, 
+        {
+            "source": "15375", 
+            "target": "27080"
+        }, 
+        {
+            "source": "27080", 
+            "target": "102008"
+        }
+    ], 
+    "multigraph": false
+}

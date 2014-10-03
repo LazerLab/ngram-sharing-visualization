@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank C. Guinta", 
+            "id": "42946"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sue Wilkins Myrick", 
+            "id": "21789"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27032", 
+            "target": "124938"
+        }, 
+        {
+            "source": "27032", 
+            "target": "42946"
+        }, 
+        {
+            "source": "42946", 
+            "target": "21789"
+        }
+    ], 
+    "multigraph": false
+}

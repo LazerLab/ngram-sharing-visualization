@@ -1,0 +1,74 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "C. A. Dutch Ruppersberger", 
+            "id": "36130"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Gwen Moore", 
+            "id": "3457"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Duncan", 
+            "id": "47967"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Rosa L. DeLauro", 
+            "id": "26788"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Barbara Boxer", 
+            "id": "53274"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Cassidy", 
+            "id": "69494"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Nancy Pelosi", 
+            "id": "26732"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mario Diaz-Balart", 
+            "id": "24312"
+        }
+    ], 
+    "links": [
+        {
+            "source": "36130", 
+            "target": "3457"
+        }, 
+        {
+            "source": "47967", 
+            "target": "26788"
+        }, 
+        {
+            "source": "15691", 
+            "target": "24312"
+        }, 
+        {
+            "source": "15691", 
+            "target": "26732"
+        }, 
+        {
+            "source": "53274", 
+            "target": "69494"
+        }
+    ], 
+    "multigraph": false
+}

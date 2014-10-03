@@ -1,0 +1,65 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jeff Duncan", 
+            "id": "47967"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James B. Renacci", 
+            "id": "120678"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Greg Walden", 
+            "id": "2979"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Austin Scott", 
+            "id": "11812"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }
+    ], 
+    "links": [
+        {
+            "source": "47967", 
+            "target": "135705"
+        }, 
+        {
+            "source": "21785", 
+            "target": "8783"
+        }, 
+        {
+            "source": "120678", 
+            "target": "288"
+        }, 
+        {
+            "source": "2979", 
+            "target": "11812"
+        }
+    ], 
+    "multigraph": false
+}

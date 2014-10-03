@@ -1,0 +1,104 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Joe Wilson", 
+            "id": "3985"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mitch McConnell", 
+            "id": "53298"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sander M. Levin", 
+            "id": "26918"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Abney Culberson", 
+            "id": "5488"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Aaron Schock", 
+            "id": "33428"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }
+    ], 
+    "links": [
+        {
+            "source": "22175", 
+            "target": "46034"
+        }, 
+        {
+            "source": "3985", 
+            "target": "53298"
+        }, 
+        {
+            "source": "26798", 
+            "target": "46034"
+        }, 
+        {
+            "source": "26798", 
+            "target": "53298"
+        }, 
+        {
+            "source": "542", 
+            "target": "33428"
+        }, 
+        {
+            "source": "542", 
+            "target": "20400"
+        }, 
+        {
+            "source": "542", 
+            "target": "24046"
+        }, 
+        {
+            "source": "26918", 
+            "target": "20400"
+        }, 
+        {
+            "source": "26918", 
+            "target": "5488"
+        }, 
+        {
+            "source": "5488", 
+            "target": "33428"
+        }
+    ], 
+    "multigraph": false
+}

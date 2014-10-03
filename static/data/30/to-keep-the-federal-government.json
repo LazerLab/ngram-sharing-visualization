@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Posey", 
+            "id": "24280"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Huizenga", 
+            "id": "38351"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ken Calvert", 
+            "id": "26777"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }
+    ], 
+    "links": [
+        {
+            "source": "8783", 
+            "target": "24280"
+        }, 
+        {
+            "source": "8783", 
+            "target": "27116"
+        }, 
+        {
+            "source": "38351", 
+            "target": "26777"
+        }, 
+        {
+            "source": "38351", 
+            "target": "27116"
+        }
+    ], 
+    "multigraph": false
+}

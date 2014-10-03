@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sam Johnson", 
+            "id": "27079"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }
+    ], 
+    "links": [
+        {
+            "source": "288", 
+            "target": "102008"
+        }, 
+        {
+            "source": "27079", 
+            "target": "27080"
+        }, 
+        {
+            "source": "27079", 
+            "target": "102008"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,109 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Cynthia M. Lummis", 
+            "id": "15546"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Mark Sanford", 
+            "id": "21991"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael T. McCaul", 
+            "id": "49210"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ron DeSantis", 
+            "id": "137630"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Al Green", 
+            "id": "49680"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Cook", 
+            "id": "58121"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James B. Renacci", 
+            "id": "120678"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael G. Fitzpatrick", 
+            "id": "46971"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Davis", 
+            "id": "9622"
+        }
+    ], 
+    "links": [
+        {
+            "source": "15546", 
+            "target": "120678"
+        }, 
+        {
+            "source": "15546", 
+            "target": "137630"
+        }, 
+        {
+            "source": "45466", 
+            "target": "9622"
+        }, 
+        {
+            "source": "45466", 
+            "target": "46971"
+        }, 
+        {
+            "source": "21991", 
+            "target": "9622"
+        }, 
+        {
+            "source": "21991", 
+            "target": "49680"
+        }, 
+        {
+            "source": "27116", 
+            "target": "46971"
+        }, 
+        {
+            "source": "49210", 
+            "target": "135705"
+        }, 
+        {
+            "source": "137630", 
+            "target": "135705"
+        }, 
+        {
+            "source": "49680", 
+            "target": "58121"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,65 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Eleanor Holmes Norton", 
+            "id": "775"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Chaka Fattah", 
+            "id": "21850"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Fortenberry", 
+            "id": "41929"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Alcee L. Hastings", 
+            "id": "26798"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "James A. Himes", 
+            "id": "106744"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Elijah E. Cummings", 
+            "id": "345"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Kevin Brady", 
+            "id": "361"
+        }
+    ], 
+    "links": [
+        {
+            "source": "775", 
+            "target": "46034"
+        }, 
+        {
+            "source": "21850", 
+            "target": "26798"
+        }, 
+        {
+            "source": "41929", 
+            "target": "361"
+        }, 
+        {
+            "source": "106744", 
+            "target": "345"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Sherrod Brown", 
+            "id": "27018"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Thad Cochran", 
+            "id": "53312"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Susan M. Collins", 
+            "id": "379"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Daniel Webster", 
+            "id": "24302"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Maria Cantwell", 
+            "id": "27122"
+        }
+    ], 
+    "links": [
+        {
+            "source": "27018", 
+            "target": "53312"
+        }, 
+        {
+            "source": "379", 
+            "target": "27122"
+        }, 
+        {
+            "source": "24046", 
+            "target": "24302"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,50 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Vicky Hartzler", 
+            "id": "8783"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bill Johnson", 
+            "id": "120649"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Eliot L. Engel", 
+            "id": "26972"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard Hudson", 
+            "id": "136448"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Olson", 
+            "id": "102008"
+        }
+    ], 
+    "links": [
+        {
+            "source": "8783", 
+            "target": "120649"
+        }, 
+        {
+            "source": "8783", 
+            "target": "102008"
+        }, 
+        {
+            "source": "120649", 
+            "target": "26972"
+        }, 
+        {
+            "source": "120649", 
+            "target": "136448"
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,78 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Jo Ann Emerson", 
+            "id": "903"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Louise McIntosh Slaughter", 
+            "id": "26991"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jeff Fortenberry", 
+            "id": "41929"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Robert B. Aderholt", 
+            "id": "441"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lamar Alexander", 
+            "id": "15691"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Glenn Thompson", 
+            "id": "24046"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Cole", 
+            "id": "46034"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }
+    ], 
+    "links": [
+        {
+            "source": "903", 
+            "target": "24046"
+        }, 
+        {
+            "source": "26991", 
+            "target": "21785"
+        }, 
+        {
+            "source": "41929", 
+            "target": "15691"
+        }, 
+        {
+            "source": "441", 
+            "target": "46034"
+        }, 
+        {
+            "source": "15691", 
+            "target": "18829"
+        }, 
+        {
+            "source": "18829", 
+            "target": "21785"
+        }
+    ], 
+    "multigraph": false
+}

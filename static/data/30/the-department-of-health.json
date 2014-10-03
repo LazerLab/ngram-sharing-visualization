@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David P. Roe", 
+            "id": "65306"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Lucille Roybal-Allard", 
+            "id": "26766"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Harold Rogers", 
+            "id": "26875"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Fortney Pete Stark", 
+            "id": "26736"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Al Franken", 
+            "id": "108924"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "108924"
+        }, 
+        {
+            "source": "65306", 
+            "target": "26736"
+        }, 
+        {
+            "source": "26766", 
+            "target": "26875"
+        }
+    ], 
+    "multigraph": false
+}

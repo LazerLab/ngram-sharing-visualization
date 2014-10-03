@@ -1,0 +1,59 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Xavier Becerra", 
+            "id": "26754"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael E. Capuano", 
+            "id": "18883"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Mark Udall", 
+            "id": "12329"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Michael F. Bennet", 
+            "id": "110942"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn A. Westmoreland", 
+            "id": "8001"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Mike Ross", 
+            "id": "24571"
+        }
+    ], 
+    "links": [
+        {
+            "source": "26754", 
+            "target": "8001"
+        }, 
+        {
+            "source": "26754", 
+            "target": "24571"
+        }, 
+        {
+            "source": "18883", 
+            "target": "110942"
+        }, 
+        {
+            "source": "12329", 
+            "target": "24571"
+        }, 
+        {
+            "source": "110942", 
+            "target": "8001"
+        }
+    ], 
+    "multigraph": false
+}

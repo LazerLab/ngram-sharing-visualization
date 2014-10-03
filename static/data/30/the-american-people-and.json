@@ -1,0 +1,159 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Fred Upton", 
+            "id": "26906"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve King", 
+            "id": "10853"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rob Bishop", 
+            "id": "50544"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Sue Wilkins Myrick", 
+            "id": "21789"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Orrin G. Hatch", 
+            "id": "53352"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Goodlatte", 
+            "id": "27116"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Walter B. Jones", 
+            "id": "21785"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Don Young", 
+            "id": "26717"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Southerland II", 
+            "id": "124329"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Jerry Moran", 
+            "id": "542"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Steve Daines", 
+            "id": "135720"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blaine Luetkemeyer", 
+            "id": "20400"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Latham", 
+            "id": "22175"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David B. McKinley", 
+            "id": "117396"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "26906"
+        }, 
+        {
+            "source": "10853", 
+            "target": "26717"
+        }, 
+        {
+            "source": "50544", 
+            "target": "27015"
+        }, 
+        {
+            "source": "50544", 
+            "target": "21785"
+        }, 
+        {
+            "source": "50544", 
+            "target": "21789"
+        }, 
+        {
+            "source": "21789", 
+            "target": "124329"
+        }, 
+        {
+            "source": "53352", 
+            "target": "135720"
+        }, 
+        {
+            "source": "53352", 
+            "target": "119478"
+        }, 
+        {
+            "source": "27116", 
+            "target": "20400"
+        }, 
+        {
+            "source": "21785", 
+            "target": "542"
+        }, 
+        {
+            "source": "15375", 
+            "target": "542"
+        }, 
+        {
+            "source": "26717", 
+            "target": "124329"
+        }, 
+        {
+            "source": "135720", 
+            "target": "20400"
+        }, 
+        {
+            "source": "22175", 
+            "target": "119478"
+        }, 
+        {
+            "source": "22175", 
+            "target": "117396"
+        }
+    ], 
+    "multigraph": false
+}

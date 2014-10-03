@@ -1,0 +1,79 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Ann Marie Buerkle", 
+            "id": "127047"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Nydia M. Vel\u00e1zquez", 
+            "id": "26975"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Blake Farenthold", 
+            "id": "116919"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "James P. Moran", 
+            "id": "27118"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ted Cruz", 
+            "id": "135705"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Pete Sessions", 
+            "id": "288"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ron Johnson", 
+            "id": "126217"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Alan Nunnelee", 
+            "id": "8326"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Matt Salmon", 
+            "id": "22184"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Renee L. Ellmers", 
+            "id": "120897"
+        }
+    ], 
+    "links": [
+        {
+            "source": "127047", 
+            "target": "22184"
+        }, 
+        {
+            "source": "26975", 
+            "target": "27118"
+        }, 
+        {
+            "source": "116919", 
+            "target": "120897"
+        }, 
+        {
+            "source": "135705", 
+            "target": "288"
+        }, 
+        {
+            "source": "126217", 
+            "target": "8326"
+        }
+    ], 
+    "multigraph": false
+}

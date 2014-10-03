@@ -1,0 +1,55 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Russ Carnahan", 
+            "id": "39948"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John A. Boehner", 
+            "id": "27015"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Duncan Hunter", 
+            "id": "104308"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Cornyn", 
+            "id": "15375"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Brett Guthrie", 
+            "id": "18829"
+        }
+    ], 
+    "links": [
+        {
+            "source": "39948", 
+            "target": "53294"
+        }, 
+        {
+            "source": "27015", 
+            "target": "18829"
+        }, 
+        {
+            "source": "104308", 
+            "target": "15375"
+        }, 
+        {
+            "source": "15375", 
+            "target": "18829"
+        }
+    ], 
+    "multigraph": false
+}

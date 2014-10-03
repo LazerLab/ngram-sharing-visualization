@@ -1,0 +1,41 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Republican", 
+            "name": "Stevan Pearce", 
+            "id": "10655"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tom Marino", 
+            "id": "119478"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Rodney Alexander", 
+            "id": "4545"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Yvette D. Clarke", 
+            "id": "44741"
+        }
+    ], 
+    "links": [
+        {
+            "source": "10655", 
+            "target": "119478"
+        }, 
+        {
+            "source": "10655", 
+            "target": "44741"
+        }, 
+        {
+            "source": "4545", 
+            "target": "44741"
+        }
+    ], 
+    "multigraph": false
+}

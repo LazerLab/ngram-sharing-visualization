@@ -1,0 +1,157 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Tom Harkin", 
+            "id": "53294"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Griffin", 
+            "id": "119213"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Eliot L. Engel", 
+            "id": "26972"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Paul Ryan", 
+            "id": "26344"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "William L. Owens", 
+            "id": "116354"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Michael K. Simpson", 
+            "id": "2917"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Marco Rubio", 
+            "id": "1601"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Diana DeGette", 
+            "id": "561"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "James Lankford", 
+            "id": "124938"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Todd C. Young", 
+            "id": "120345"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "John Abney Culberson", 
+            "id": "5488"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Richard Blumenthal", 
+            "id": "1568"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Charles F. Bass", 
+            "id": "22216"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Francisco \"Quico\" Canseco", 
+            "id": "50146"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Kent Conrad", 
+            "id": "53331"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Tim Murphy", 
+            "id": "9794"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Aaron Schock", 
+            "id": "33428"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "David P. Joyce", 
+            "id": "143052"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Richard Hudson", 
+            "id": "136448"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Lynn Jenkins", 
+            "id": "18594"
+        }
+    ], 
+    "links": [
+        {
+            "source": "53294", 
+            "target": "18594"
+        }, 
+        {
+            "source": "119213", 
+            "target": "124938"
+        }, 
+        {
+            "source": "26972", 
+            "target": "136448"
+        }, 
+        {
+            "source": "26972", 
+            "target": "143052"
+        }, 
+        {
+            "source": "26344", 
+            "target": "561"
+        }, 
+        {
+            "source": "116354", 
+            "target": "53331"
+        }, 
+        {
+            "source": "2917", 
+            "target": "1568"
+        }, 
+        {
+            "source": "1601", 
+            "target": "5488"
+        }, 
+        {
+            "source": "124938", 
+            "target": "22216"
+        }, 
+        {
+            "source": "120345", 
+            "target": "9794"
+        }, 
+        {
+            "source": "5488", 
+            "target": "33428"
+        }, 
+        {
+            "source": "5488", 
+            "target": "50146"
+        }
+    ], 
+    "multigraph": false
+}

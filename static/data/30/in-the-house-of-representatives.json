@@ -1,0 +1,51 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "party": "Democrat", 
+            "name": "Robert P. Casey, Jr.", 
+            "id": "2541"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Sheila Jackson Lee", 
+            "id": "21692"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Frank D. Lucas", 
+            "id": "27032"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Bob Gibbs", 
+            "id": "45466"
+        }, 
+        {
+            "party": "Republican", 
+            "name": "Ralph M. Hall", 
+            "id": "27080"
+        }, 
+        {
+            "party": "Democrat", 
+            "name": "Yvette D. Clarke", 
+            "id": "44741"
+        }
+    ], 
+    "links": [
+        {
+            "source": "2541", 
+            "target": "44741"
+        }, 
+        {
+            "source": "21692", 
+            "target": "45466"
+        }, 
+        {
+            "source": "27032", 
+            "target": "27080"
+        }
+    ], 
+    "multigraph": false
+}
