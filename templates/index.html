@@ -13,11 +13,16 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   <!-- CSS concatenated and minified via ant build script-->
-  <link rel="stylesheet" href="static/css/reset.css">
-  <link rel="stylesheet" href="static/css/bootstrap.min.css">
-  <link rel="stylesheet" href="static/css/style.css">
+  <link rel="stylesheet" href="{{url_for('static', filename='css/reset.css')}}">
+  <link rel="stylesheet" href="{{url_for('static', filename='css/bootstrap.min.css')}}">
+  <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
   <!-- end CSS-->
-  <script src="static/js/libs/modernizr-2.0.6.min.js"></script>
+  <script src="{{url_for('static', filename='js/libs/modernizr-2.0.6.min.js')}}"></script>
+
+  <script>
+    $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+    $STATIC_DIR  = {{ url_for('static', filename='')}};
+  </script>
 
 </head>
 
@@ -41,15 +46,15 @@
 
 
   <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
-  <script>window.jQuery || document.write('<script src="static/js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+  <script>window.jQuery || document.write('<script src="{{url_for('static', filename='js/libs/jquery-1.7.2.min.js')}}"><\/script>')</script>
 
 
-  <script defer src="static/js/plugins.js"></script>
-  <script defer src="static/js/script.js"></script>
-  <script src="static/js/libs/coffee-script.js"></script>
-  <script src="static/js/libs/d3.v2.js"></script>
-  <script src="static/js/Tooltip.js"></script>
-  <script type="text/coffeescript" src="static/coffee/vis.coffee"></script>
+  <script defer src="{{url_for('static', filename='js/plugins.js')}}"></script>
+  <script defer src="{{url_for('static', filename='js/script.js')}}"></script>
+  <script src="{{url_for('static', filename='js/libs/coffee-script.js')}}"></script>
+  <script src="{{url_for('static', filename='js/libs/d3.v2.js')}}"></script>
+  <script src="{{url_for('static', filename='js/Tooltip.js')}}"></script>
+  <script type="text/coffeescript" src="{{url_for('static', filename='coffee/vis.coffee')}}"></script>
 
   <!--[if lt IE 7 ]>
     <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
