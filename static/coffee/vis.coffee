@@ -321,7 +321,7 @@ $ ->
 
   $("#song_select").on "change", (e) ->
     songFile = $(this).val()
-    d3.json '/var/www/ngram-sharing-visualization/static/data/30/#{songFile}', (json) ->
+    d3.json $STATIC_DIR + "data/30/#{songFile}", (json) ->
       myNetwork.updateData(json)
 
   d3.json $STATIC_DIR + "data/30/protection-and-affordable-care.json", (json) ->
