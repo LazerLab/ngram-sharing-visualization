@@ -30,9 +30,9 @@ Network = () ->
   # color function used to color nodes
   nodeColors = (party) ->
     if party == "Democrat"
-      '#4273ED'
+      '#4273ED'  # blue
     else
-      '#ED434B'
+      '#ED434B'  # red
 
   # tooltip used to display details
   tooltip = Tooltip("vis-tooltip", 230)
